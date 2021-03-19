@@ -1,14 +1,14 @@
 - title: Watch the conference
-  url: /watch/
+  url: ./watch/
 - title: Programme
-  url: /programme
+  url: ./programme
 - title: Workshops
-  url: /workshops
+  url: ./workshops
 - title: Demos
-  url: /demos
+  url: ./demos
 - title: Proceedings
-  url: /proceedings
+  url: ./proceedings
 - title: About
-  url: /about-us
+  url: ./about-us
 - title: Archive
   url: https://archivio.archeofoss.org
