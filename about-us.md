@@ -41,4 +41,4 @@ layout: article-slim
 - Cristina **Gonzalez Esteban**, University of Southampton
 - Paolo **Rosati**, Sapienza University of Rome
 - Matteo **Serpetti**, S3. Nicosia, Cyprus
-- Livia **Tirabassi**,Gent University
+- Livia **Tirabassi**, Gent University

@@ -10,6 +10,18 @@ permalink: /
 **[20/05/2021]**
 The new call for papers and workshops for the 2021 edition of ArcheoFOSS is out!
 
+- Deadline for paper submission: **30/06/2021**
+- Deadline for workshop submission: **30/06/2021**
+- Notification of acceptance of the abstracts of speeches and workshops: **01/07/2021**
+- Registration for workshops open: **15/07/2021**
+- End of the pre-proceeding call for workshops: **01/09/2021**
+- Publishing of the official program of the conference: **07/09/2021**
+- Registration for workshops closed: **07/10/2021**
+- Publishing of the official online pre-proceeding: **07/11/2021**
+- Conference dates: **23/11/2021 - 26/11/2021**
+
+## **Below you will find the entire Call for Papers and Workshops**
+
 ## ArcheoFOSS XV | 2021
 
 Due to the global coronavirus (COVID-19) outbreak, the 15th edition of the international conference ArcheoFOSS Open Software, hardware, processes, data, and formats in archaeological research will be held online on November 23rd - 26th, 2021. The official conference languages are English and Italian.
@@ -29,13 +41,13 @@ Potential topics may answer the following (not exclusive) questions:
 4. Have they opened new ways and solutions for the Archaeological profession and academy?
 5. Are developers working towards helping archaeologists and/or promoting tourism, local communities, municipalities, and museums fighting against COVID restrictions?
 
-# CALL FOR SPEECHES
+# CALL FOR PAPERS
 
 The first day of the conference will be dedicated to presenting projects and research related to the use of FLOS in Archaeology. The Organising Committee invites proposals for speeches, especially, but not limited to, the younger people of the community to give voice to new projects and ideas **(freelance developers, graduate or PhD students, research fellows, postdoctoral fellows, etc.)**.
 The speech sessions will consist of 10-minute presentations, followed by 5 minutes of questions and answers.
 All the abstracts will be collected and published online in the pre-proceedings volume before the conference. After the conference, all authors will be asked to submit a full paper for the complete version of the Proceedings. Proposals will be accepted after a double-blind peer-review evaluation process.
 
-### Topic 1. Use and Application of Free/Libre and Open Source (FLOS) Tools in Archaeology
+### ![icon](./images/icons/trowel.svg "Trowel") Topic 1. Use and Application of Free/Libre and Open Source (FLOS) Tools in Archaeology
 
 This session covers aspects connected to the application of free/libre and open source tools, such as software and hardware solutions, as well as processes, in the archaeological scope.
 Potential topics include, but are not limited to:
@@ -68,7 +80,7 @@ Applicants are requested to comply with the following requirements carefully :
 - Applicants and participants must agree with the video recording of the workshop and its publication through ArcheoFOSS communication channels;
 - Applicants are required to provide teaching material to the ArcheoFOSS organising committee, who may publish the material on its website and/or in its public repositories.
 
-## Topic 2. Creation, Use and Promotion of Open Data and Open Formats in Archaeology
+## ![icon](./images/icons/share.svg "Share") Topic 2. Creation, Use and Promotion of Open Data and Open Formats in Archaeology
 
 The session encompasses themes such as the creation, publication and sharing of Open Data in archaeology, including commercial software. Particular attention will be given to the development and promotion of Open Formats.
 
@@ -81,7 +93,7 @@ Potential topics include, but are not limited to:
 - long term archiving and storage strategies for Cultural Heritage data through open formats;
 - usage of Open Data and Open Formats for public engagement in Museums and Archaeology.
 
-## Topic 3. Development and Customization of FLOS Software and Hardware Solutions for Cultural Heritage
+## ![icon](./images/icons/gears.svg "Gears") Topic 3. Development and Customization of FLOS Software and Hardware Solutions for Cultural Heritage
 
 The session hosts papers dedicated to the development and customisation of free/libre and open source tools, with a special focus on software and hardware components and their effect on data, formats and processes.
 
@@ -104,14 +116,14 @@ Please note that if your proposal does not fully meet the guidelines, it will no
 - Presentations should last no longer than 10 minutes; 5 additional minutes will be available for questions and answers.
 - Workshops will consist of 2h hour sessions with a limit of 25-30 participants each.
 - The official conference languages are **English** and **Italian**.
-- For any further information [click here](archeofoss@gmail.com) to contact us at our email address!
+- For any further information [click here](mailto:archeofoss@gmail.com) to contact us at our email address!
 
 ## TL;DR
 
 ### **Updated on 20/05/2021**
 
-- Deadline for paper submission: **June, 30th 2021**
-- Deadline for workshop submission: **June 30th 2021**
+- Deadline for paper submission: **30/06/2021**
+- Deadline for workshop submission: **30/06/2021**
 - Notification of acceptance of the abstracts of speeches and workshops: **01/07/2021**
 - Registration for workshops open: **15/07/2021**
 - End of the pre-proceeding call for workshops: **01/09/2021**

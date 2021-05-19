@@ -1,5 +1,5 @@
 ---
-title: "ArcheoFOSS 2020"
+title: "ArcheoFOSS 2021"
 description: "Call for papers, workshops & demos for the 14th edition of the International conference ArcheoFOSS: Open software, hardware, processes, data and formats in archaeological research"
 layout: article-slim
 ---
