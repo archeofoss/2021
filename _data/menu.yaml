@@ -1,10 +1,21 @@
+<<<<<<< HEAD
+=======
+- title: Watch the conference
+  url: ./watch/
+>>>>>>> 53c5b0d72c67afc83220def9656b7bd3ae0fb195
 - title: Programme
-  url: /programme
+  url: ./programme
 - title: Workshops
+<<<<<<< HEAD
   url: /workshops
+=======
+  url: ./workshops
+- title: Demos
+  url: ./demos
+>>>>>>> 53c5b0d72c67afc83220def9656b7bd3ae0fb195
 - title: Proceedings
-  url: /proceedings
+  url: ./proceedings
 - title: About
-  url: /about-us
+  url: ./about-us
 - title: Archive
   url: https://archivio.archeofoss.org
