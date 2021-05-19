@@ -8,7 +8,15 @@ permalink: /
 ## Latest news
 
 **[20/05/2021]**
-The new call for papers and workshops for the 2021 edition of ArcheoFOSS is out!
+
+- The new call for papers and workshops for the 2021 edition of ArcheoFOSS is out!
+
+- Due to the global coronavirus (COVID-19) outbreak, the 15<sup>th</sup> edition of the
+  International Conference ArcheoFOSS Open Software, Hardware, Processes,
+  Data and Formats in Archaeological Research will be held online on
+  **November, 23<sup>rd</sup> - 26<sup>th</sup> 2021**.
+
+## Deadlines
 
 - Deadline for paper submission: **30/06/2021**
 - Deadline for workshop submission: **30/06/2021**
@@ -20,7 +28,7 @@ The new call for papers and workshops for the 2021 edition of ArcheoFOSS is out!
 - Publishing of the official online pre-proceeding: **07/11/2021**
 - Conference dates: **23/11/2021 - 26/11/2021**
 
-## **Below you will find the entire Call for Papers and Workshops**
+# **Call for Papers and Workshops**
 
 ## ArcheoFOSS XV | 2021
 
