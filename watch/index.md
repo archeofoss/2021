@@ -1,16 +1,16 @@
 ---
-title: "Watch live ArcheoFOSS International Conference 2020"
+title: "Watch live ArcheoFOSS International Conference 2021"
 layout: article-slim
 ---
 
 
-## Day 3: 17 October 2020
+## Watch the speeches from the 2020 edition of ArcheoFOSS
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/GieO7FGBbrQ " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Ask a question by joining the Telegram group](https://t.me/archeofoss)
+[https://2020.archeofoss.org/watch/](https://t.me/archeofoss)
 
 
 ---

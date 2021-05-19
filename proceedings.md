@@ -1,6 +1,6 @@
 ---
 title: "Publication of the Proceedings"
-description: "Proceedings of archeoFOSS 2020: Open software, hardware, processes, data and formats in archaeological research"
+description: "Proceedings of archeoFOSS 2021: Open software, hardware, processes, data and formats in archaeological research"
 layout: article-slim
 ---
 

@@ -1,80 +1,121 @@
 ---
-title: "ArcheoFOSS 2020"
-description: "ArcheoFOSS 2020: Open software, hardware, processes, data and formats in archaeological research"
+title: "ArcheoFOSS 2021"
+description: "ArcheoFOSS 2021: Open software, hardware, processes, data and formats in archaeological research"
 layout: home
 permalink: /
 ---
 
 ## Latest news
 
-**[15/10/2020]**
-ArcheoFOSS 2020 is on air!
+**[20/05/2021]**
+The new call for papers and workshops for the 2021 edition of ArcheoFOSS is out!
 
-To follow the conference works:
-- live on our site ([https://2020.archeofoss.org/watch/](watch/))
-- live on YouTube:
-    - Day 1: [https://www.youtube.com/watch?v=3XtJyoz3Ppc](https://www.youtube.com/watch?v=3XtJyoz3Ppc)
-    - Day 2: [https://www.youtube.com/watch?v=bgkLcKsKtOA](https://www.youtube.com/watch?v=bgkLcKsKtOA)
-    - Day 3: [https://www.youtube.com/watch?v=GieO7FGBbrQ](https://www.youtube.com/watch?v=GieO7FGBbrQ)
-- or live on Facebook ([https://www.facebook.com/archeofoss/](https://www.facebook.com/archeofoss/))
+## ArcheoFOSS XV | 2021
 
-Ask your questions on directly on YouTube and Facebook or join our public Telegram group ([https://t.me/archeofoss](https://t.me/archeofoss))
+Due to the global coronavirus (COVID-19) outbreak, the 15th edition of the international conference ArcheoFOSS Open Software, hardware, processes, data, and formats in archaeological research will be held online on November 23rd - 26th, 2021. The official conference languages are English and Italian.
 
-For small talk and coffe break, we coud meet in the virtual bar, at [https://mm.topstream.it/Bar-di-ArcheoFOSS](https://mm.topstream.it/Bar-di-ArcheoFOSS). It is always open!
+The conference will address a range of important topics and themes relating to data sharing, open tools, processes and formats in the archaeological domain.
+We invite scholars, independent researchers, institutions, freelance archaeologists, and professional companies involved in Cultural Heritage to submit original research or case studies by exposing the latest trends, theoretical or practical developments and challenges in the field. On behalf of the Scientific Committee 2021 (link), the Organising Committee encourages abstract proposals focused on the following thematic areas.
 
-To partecipate to the final Round Table *ArcheoFOSS. An insight into the future* join us at 
-[2020.archeofoss.org/watch/round-table (Zoom.us provided by Sapienza)](/watch/round-table)
+## Main item. FLOSS in archaeology for the post-pandemic times
 
-**[14/10/2020]**
-It is now available an open Telegram group that can be used during the conference days.
-You can inscribe to the group by following the link: [https://t.me/archeofoss](https://t.me/archeofoss).
-Please use the group to notify broardcast issues or to ask questions to the conference presenters.
+The main topic of the conference aims to cover the present condition of archaeological work and the effects that the current pandemic has caused on “traditional” workflows in Archaeology.
 
+Potential topics may answer the following (not exclusive) questions:
 
-**[02/10/2020]**
-This morning have been closed the subscriptions to the workshops. Thank you all for the **very large** partecipation. We will give
-your contacts to each workshop organizator, and vice-versa. Wokshop organizers and Archeofoss organizing commitee (info@archeofoss.org)
-remain fully available for any question or doubt. We will get back to you very soon!
+1. How did the Archaeological profession change during this two-year period?
+2. Are FLOSS technologies and open datasets useful in this period of change, and how?
+3. Have these technologies been boosted during these years, and how?
+4. Have they opened new ways and solutions for the Archaeological profession and academy?
+5. Are developers working towards helping archaeologists and/or promoting tourism, local communities, municipalities, and museums fighting against COVID restrictions?
 
-**[17/09/2020]**
+# CALL FOR SPEECHES
 
-Available the URLs of the broadcast of the conference! Each day has two
-separate URLs, one for the morning and one for the afternoon.
-Each workshop has its own URL as well. Please find, save and share the URLs
-in the main [programme page](/programme).
+The first day of the conference will be dedicated to presenting projects and research related to the use of FLOS in Archaeology. The Organising Committee invites proposals for speeches, especially, but not limited to, the younger people of the community to give voice to new projects and ideas **(freelance developers, graduate or PhD students, research fellows, postdoctoral fellows, etc.)**.
+The speech sessions will consist of 10-minute presentations, followed by 5 minutes of questions and answers.
+All the abstracts will be collected and published online in the pre-proceedings volume before the conference. After the conference, all authors will be asked to submit a full paper for the complete version of the Proceedings. Proposals will be accepted after a double-blind peer-review evaluation process.
 
-**[09/09/2020]**
+### Topic 1. Use and Application of Free/Libre and Open Source (FLOS) Tools in Archaeology
 
-Published the definitive schedule of the workshops, available both at the main [programme page](./programme) and at the [workshops’ dedicated page](./workshops).
+This session covers aspects connected to the application of free/libre and open source tools, such as software and hardware solutions, as well as processes, in the archaeological scope.
+Potential topics include, but are not limited to:
 
-Remember that workshops can be booked on [Eventbrite](https://www.eventbrite.it/o/archeofoss-31023076975), since tge number of the available seets is limited. Hurry up!
+- projects and research with workflows based on the FLOS paradigm;
+- methods and strategies for using FLOS in archaeology;
+- management of excavation data, photographic and graphic documentation;
+- 3D survey, data processing and 3D reconstructions;
+- data analysis through deep learning techniques (images, point clouds, etc.);
+- scientific transparency;
+- innovative data publishing strategies;
+- integration, through open formats, with non-archaeological workflows (geology, engineering, construction science, environmental analysis, etc.).
 
-**[26/08/2020]**
+## Abstract Submission
 
-We are very proud to announce that the conference programme of ArcheoFOSS 2020 is [now available](./programme).
+Short abstracts (4000 characters max.), with a maximum of three t images, captions and a short biography of the author/authors (max. 700 characters), must be submitted through this link: https//LINK_easychair before **June, 30th 2021**. Texts and images should be made available under CC BY-ND license.
 
-The **Book of Abstracts** is already and freely available in Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4002961.svg)](https://doi.org/10.5281/zenodo.4002961).
+# CALL FOR WORKSHOPS
 
+The 2021 edition of ArcheoFOSS focuses on spreading good practices, coding skills, new workflows and best practices in reusage and opening archaeological datasets.
+For this purpose, the following days will be dedicated to a series of online workshops opened to the international community, covering topics described in the below topic 2 and 3. These two sessions are aimed to match with the expected audience: 2. OpenData publishers, and 3. Developers.
 
-The **list of the available workshops** is available [2020.archeofoss.org/workshops](./workshops). Don't forget to sign up to get your seat!
+The attendance will be limited in number to 25-30 participants per workshop to ensure better enjoyment of the events. The Organising Committee invites proposals for practical workshops on using a specific software, the execution of a process or the creation of a mash-up. The workshop will be published on the conference program after a double-blind peer-review process.
 
-**[13/7/2020]**
+Applicants are requested to comply with the following requirements carefully :
 
-Since the midnight of July 12, 2020 the call for papers and posters has been closed.
+- The maximum duration of the workshop is 2 hours;
+- The applicants should ensure all participants can follow the workshop in practical terms, opting for multi-platform environments. Furthermore, the workshop should be accessible through Linux (most popular distributions), Windows and MacOS systems;
+- Applicants will have to provide a compatible working environment (software, libraries, data) or provide in advance detailed instructions to set it properly. Applicants should remain available to the registered participants before the beginning of the workshop to solve any problems in the working environment. The organisation of a follow-up session (4-5 weeks after the workshop work), with the support of the organising committee, is highly encouraged;
+- Applicants and participants must agree with the video recording of the workshop and its publication through ArcheoFOSS communication channels;
+- Applicants are required to provide teaching material to the ArcheoFOSS organising committee, who may publish the material on its website and/or in its public repositories.
 
-We have received **41** proposals for papers and **7** proposals for workshops. Thank you for the large and highly qualified participation.
+## Topic 2. Creation, Use and Promotion of Open Data and Open Formats in Archaeology
 
-The reviewing process has **already begun** and the Organising Commitee together with the Scentific Committee are on work on the submitted abstracts. We are very proud to announce that the next edition od ArcheoFOSS will be of a great scientific interest, with an impressive variety of themes, case-studies and methodological and theoretical consideration.
+The session encompasses themes such as the creation, publication and sharing of Open Data in archaeology, including commercial software. Particular attention will be given to the development and promotion of Open Formats.
 
-We are looking forward to share with the ArcheoFOSS community the definitive conference programme!
+Potential topics include, but are not limited to:
 
+- projects and research with open format outcomes;
+- publication strategies based on Open Data and Linked Open Data (LOD);
+- adoption of transparent and documented data transformation processes;
+- processing, retrieving and re-publication of legacy data;
+- long term archiving and storage strategies for Cultural Heritage data through open formats;
+- usage of Open Data and Open Formats for public engagement in Museums and Archaeology.
 
-# TL;DR
-**Updated on 01/09/2020: Extension of the deadline of Demo presentations**
-- Deadline for demo submission: <strike>31/08/2020</strike>**4/10/2020**
-- Conference dates: **15,16, 17 October, 2020**
-- Download the Book of abstracts [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4002961.svg)](https://doi.org/10.5281/zenodo.4002961).
-- [Book a place in one or more workshops](/workshops)
-- **And do not forget to share the programme!**
-    - [Share on Telegram](https://telegram.me/share/url?url=https://2020.archeofoss.org/programme&text=Available+programme+of+ArcheoFOSS+2020)
-    - [Share on WhatsApp](https://wa.me/?text=https://2020.archeofoss.org/programme+Available+programme+of+ArcheoFOSS+2020)
+## Topic 3. Development and Customization of FLOS Software and Hardware Solutions for Cultural Heritage
+
+The session hosts papers dedicated to the development and customisation of free/libre and open source tools, with a special focus on software and hardware components and their effect on data, formats and processes.
+
+Potential topics include, but are not limited to:
+
+- creation of hardware/software tools for data modelling and integration;
+- creation of hardware/software solutions for data collection in the field of Cultural Heritage;
+- development of Artificial Intelligence (AI) and deep learning solutions;
+- open hardware framework for data management;
+- development of software/hardware Internet of Things (IoT) tools for Cultural Heritage.
+
+## Workshop Submission
+
+The proposal (4000 characters max.), which shall include a detailed description of the practical purposes of the workshop and detailed information on required hardware/software configuration, together with a short biography of the author/authors (max. 700 characters), must be submitted through this link:
+https//LINK_easychair until **June 30th 2021**, the response will be sent to the authors on - The authors of the selected papers can modify the submitted abstract until **September 1st,2021**.
+Please note that if your proposal does not fully meet the guidelines, it will not be considered for the topic.
+
+### Summary
+
+- Presentations should last no longer than 10 minutes; 5 additional minutes will be available for questions and answers.
+- Workshops will consist of 2h hour sessions with a limit of 25-30 participants each.
+- The official conference languages are **English** and **Italian**.
+- For any further information [click here](archeofoss@gmail.com) to contact us at our email address!
+
+## TL;DR
+
+### **Updated on 20/05/2021**
+
+- Deadline for paper submission: **June, 30th 2021**
+- Deadline for workshop submission: **June 30th 2021**
+- Notification of acceptance of the abstracts of speeches and workshops: **01/07/2021**
+- Registration for workshops open: **15/07/2021**
+- End of the pre-proceeding call for workshops: **01/09/2021**
+- Publishing of the official program of the conference: **07/09/2021**
+- Registration for workshops closed: **07/10/2021**
+- Publishing of the official online pre-proceeding: **07/11/2021**
+- Conference dates: **23/11/2021 - 26/11/2021**
