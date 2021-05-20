@@ -119,9 +119,9 @@ jQuery(document).ready(function ($) {
     if (found_it) {
       date_str = `${found_it[3]}/${mesi.indexOf(found_it[2]) + 1}/${
         found_it[1]
-      } 23:59 GMT+2`;
+      } 23:59`;
     } else if (found_en) {
-      date_str = `${found_en[3]}/${found_en[2]}/${found_en[1]} 23:59 GMT+2`;
+      date_str = `${found_en[3]}/${found_en[2]}/${found_en[1]} 23:59`;
     } else {
       return;
     }
