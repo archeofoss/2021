@@ -70,9 +70,9 @@ Potential topics include, but are not limited to:
 
 ## Abstract Submission
 
-After applying using the following Google Form link,[ https://forms.gle/M39XmAgGCG8LeprL7](https://forms.gle/M39XmAgGCG8LeprL7) the Organizing Committee will forward the response of acceptance or rejection of the proposal no later than June 30 th, 2021.
-Through the admission email will be sent a template with the general guidelines, will also request you to upload on Easy Chair a short abstract (maximum 500 characters), a short biography of the author/research group (for a total of maximum 500 characters), the proposal in pdf (maximum 5000 characters) accompanied by a maximum of three images, captions and bibliography. The aforementioned material must be submitted peremptorily by **September 1 st**, 2021. Text and images must be available under a CC BY-SA 3.0 license.
-Please note that if your proposal is not received by the required deadline and does not fully meet the guidelines, it may not be considered for the conference.
+After applying using the following **[ Form link](https://forms.gle/M39XmAgGCG8LeprL7)** the Organizing Committee will forward the response of acceptance or rejection of the proposal no later than June 30 th, 2021.
+Through the admission email will be sent a template with the general guidelines, will also request you to upload on Easy Chair a short abstract (maximum 500 characters), a short biography of the author/research group (for a total of maximum 500 characters), the proposal in pdf (maximum 5000 characters) accompanied by a maximum of three images, captions and bibliography. The aforementioned material must be submitted peremptorily by **September 1<sup>st</sup>**, 2021. Text and images must be available under a CC BY-SA 3.0 license.<br>
+**Please note that if your proposal is not received by the required deadline and does not fully meet the guidelines, it may not be considered for the conference**.
 
 # CALL FOR WORKSHOPS
 
@@ -115,9 +115,9 @@ Potential topics include, but are not limited to:
 
 ## Workshop Submission
 
-After submitting the application through the following Google Form link, [ https://forms.gle/M39XmAgGCG8LeprL7](https://forms.gle/M39XmAgGCG8LeprL7) the Organizing Committee will send the response of acceptance or rejection of the proposal.
-Through the admission email will be sent a template with the general guidelines, will also request you to upload on Easy Chair a short abstract (maximum 500 characters), a short biography of the author / research group (for a total of maximum 500 characters), the proposal in pdf (maximum 10000 characters) with detailed information about the hardware/software configuration required, a detailed description of the practical steps for the execution of the workshop, diagrams, graphs, maximum 10 images. The aforementioned material must be submitted peremptorily by **September 1st, 2021**. Text and images must be made available under a CC BY-SA 3.0 license.
-Please note that if your proposal does not arrive by the required deadline and does not fully meet the guidelines, it may not be considered for the conference.
+After submitting the application through the following **[ Form link](https://forms.gle/M39XmAgGCG8LeprL7)** the Organizing Committee will send the response of acceptance or rejection of the proposal.
+Through the admission email will be sent a template with the general guidelines, will also request you to upload on Easy Chair a short abstract (maximum 500 characters), a short biography of the author / research group (for a total of maximum 500 characters), the proposal in pdf (maximum 10000 characters) with detailed information about the hardware/software configuration required, a detailed description of the practical steps for the execution of the workshop, diagrams, graphs, maximum 10 images. The aforementioned material must be submitted peremptorily by **September 1<sup>st</sup>, 2021**. Text and images must be made available under a CC BY-SA 3.0 license.<br>
+**Please note that if your proposal is not received by the required deadline and does not fully meet the guidelines, it may not be considered for the conference**.
 
 ## Pubblication of the Proceedings
 
