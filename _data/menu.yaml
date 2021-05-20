@@ -2,8 +2,8 @@
   #url: ./programme
 - title: Workshops
   url: /workshops
-- title: Proceedings
-  url: ./proceedings
+#- title: Proceedings
+#  url: ./proceedings
 - title: About
   url: ./about-us
 - title: Archive

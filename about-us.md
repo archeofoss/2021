@@ -39,6 +39,7 @@ layout: article-slim
 
 - Domizia **D'Erasmo**, Sapienza University of Rome
 - Cristina **Gonzalez Esteban**, University of Southampton
+- Mirco **Modolo**, Archivio Centrale dello Stato
 - Paolo **Rosati**, Sapienza University of Rome
 - Matteo **Serpetti**, S3. Nicosia, Cyprus
 - Livia **Tirabassi**, Gent University

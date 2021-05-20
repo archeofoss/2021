@@ -10,7 +10,7 @@ layout: article-slim
 
 The proceedings will be published as open-access by [?????](), but we reserve also the possibility to evaluate other publishing houses. It is finally our firm intention to have the volume ready and available before the end of 2022?.
 
-The process of paper collecting and evaluating will be entirely managed through the [EasyChair platform](https://easychair.org/conferences/?conf=archeofoss2020). For guidance on the platform or technical issues please write to [ArcheoFOSS Organizing Committee](mailto:archeofoss@gmail.com).
+The process of paper collecting and evaluating will be entirely managed through the [EasyChair platform](https://easychair.org/conferences/?conf=archeofoss2020). For guidance on the platform or technical issues please write to [ArcheoFOSS XV|2021 Organizing Committee](mailto:archeofoss@gmail.com).
 
 ### Evaluation process
 
