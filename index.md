@@ -34,7 +34,7 @@ Data and Formats in Archaeological Research will be held online on
 
 Due to the global coronavirus (COVID-19) outbreak, the 15th edition of the international conference ArcheoFOSS Open Software, hardware, processes, data, and formats in archaeological research will be held online on November 23rd - 26th, 2021. The official conference languages are English and Italian.
 The conference will address a range of important topics and themes relating to data sharing, open tools, processes and formats in the archaeological domain.
-We invite scholars, independent researchers, institutions, freelance archaeologists, and professional companies involved in Cultural Heritage to submit original research or case studies by exposing the latest trends, theoretical or practical developments and challenges in the field. On behalf of the Scientific Committee 2021 (link), the Organising Committee encourages abstract proposals focused on the following thematic areas.
+We invite scholars, independent researchers, institutions, freelance archaeologists, and professional companies involved in Cultural Heritage to submit original research or case studies by exposing the latest trends, theoretical or practical developments and challenges in the field. On behalf of the [Scientific Committee 2021](./about-us), the Organising Committee encourages abstract proposals focused on the following thematic areas.
 
 ## FLOSS in archaeology for the post-pandemic times
 
