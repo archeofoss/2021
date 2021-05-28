@@ -10,6 +10,7 @@ permalink: /
 **[28/05/2021]**
 
 From now on, for **questions/clarifications/updates** about the conference, the **Telegram** channel of the 15th edition of ArcheoFOSS is operative.
+
 Subscribe through this link: [https://t.me/ArcheoFOSS_2021](https://t.me/ArcheoFOSS_2021)
 
 **[20/05/2021]**
