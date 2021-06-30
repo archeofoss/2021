@@ -28,7 +28,9 @@ Data and Formats in Archaeological Research will be held online on
 - Publishing of the official online pre-proceeding: **07/11/2021**
 - Conference dates: **23/11/2021 - 26/11/2021**
 
-## **Call for Papers and Workshops**
+## **Call for Papers and Workshops - English**
+
+### At the bottom of the page the Italian version of the call
 
 ## ArcheoFOSS XV | 2021
 
@@ -136,6 +138,116 @@ The author of the workshops may also submit their papers to include them in the 
 - Workshops will consist of 2h hour sessions with a limit of 25-30 participants each.
 - The official conference languages are **English** and **Italian**.
 - For any further information **[click here](mailto:archeofoss@gmail.com)** to contact us at our email address!
+
+## **Call for Papers and Workshops - Italiano**
+
+## ArcheoFOSS XV | 2021
+
+A causa dell'epidemia globale di coronavirus (COVID-19), la XV edizione della conferenza internazionale ArcheoFOSS Open Software, hardware, process, data e formats nella ricerca archeologica si terrà online dal 23 al 26 novembre 2021.
+Le lingue ufficiali della conferenza sono l'inglese e l'italiano.
+La conferenza affronterà una serie di importanti temi relativi alla condivisione dei dati, open tools, processes and formats in ambito archeologico.
+Invitiamo studiosi, ricercatori indipendenti, istituzioni, archeologi freelance e aziende professionali coinvolte nel settore dei Beni Culturali a presentare ricerche originali o casi studio esponendo le ultime tendenze, gli sviluppi teorici o pratici e le sfide nel campo. A nome del [Comitato Scientifico 2021](./about-us), il Comitato Organizzatore incoraggia proposte di abstract incentrate sulle seguenti aree tematiche.
+
+## FLOSS in archeologia per i tempi post-pandemici
+
+Il tema principale della conferenza mira ad analizzare l'attuale situazione del lavoro archeologico e gli effetti che la pandemia ha causato ai workflow "tradizionali" in Archeologia.
+I potenziali argomenti possono rispondere alle seguenti domande (non esclusive):
+
+1. Come è cambiata la professione archeologica durante questo biennio?
+2. Le tecnologie FLOSS e gli open dataset sono utili in questo periodo di cambiamento, e come?
+3. Queste tecnologie sono state potenziate durante questi anni, e come?
+4. Si sono aperte nuove strade e soluzioni per la professione archeologica e l'accademia?
+5. Gli sviluppatori stanno lavorando per aiutare gli archeologi e/o per promuovere il turismo, le comunità locali, i comuni e i musei che lottano contro le restrizioni COVID?
+
+# CALL FOR TALKS
+
+Il primo giorno della conferenza verrà dedicato alla presentazione di progetti e ricerche relative all'uso di FLOS in Archeologia. Il Comitato Organizzatore invita a presentare **proposte di interventi**, in particolare, ma non solo, da parte dei più giovani della comunità per dare voce a nuovi progetti ed idee (sviluppatori freelance, studenti laureati o di dottorato, ricercatori, borsisti post-dottorato, ecc.)
+Le sessioni di intervento consisteranno in presentazioni di 10 minuti, seguite da 5 minuti di discussione.
+Tutti gli abstract saranno raccolti e pubblicati online nel volume dei pre-proceedings prima della conferenza. Dopo la conferenza, a tutti gli autori sarà chiesto di presentare un paper per la versione completa dei Proceedings. Le proposte saranno accettate dopo un processo di valutazione in doppia peer-review anonima.
+
+### ![icon](./images/icons/trowel.svg "Trowel") TEMA 1 <br> Uso e applicazione di strumenti Free/Libre e Open Source (FLOS) in archeologia
+
+Questa sessione verte sugli aspetti legati all'applicazione di strumenti free/libre e open source, come soluzioni software e hardware, così come i processes, in ambito archeologico.
+Potenziali argomenti includono, ma non sono limitati a:
+
+- progetti e ricerche con flussi di lavoro basati sul paradigma FLOS;
+- metodi e strategie per l'utilizzo di FLOS in archeologia;
+- gestione dei dati di scavo, documentazione fotografica e grafica;
+- rilievo 3D, elaborazione dei dati e ricostruzioni 3D;
+- analisi dei dati attraverso tecniche di deep learning (immagini, nuvole di punti, ecc.);
+- trasparenza scientifica;
+- strategie innovative di pubblicazione dei dati;
+- integrazione, attraverso formati aperti, con flussi di lavoro non archeologici (geologia, ingegneria, scienza delle costruzioni, analisi ambientale, ecc.)
+
+## Presentazione degli abstract
+
+A seguito dell'invio della proposta attraverso il seguente **[Form](https://forms.gle/M39XmAgGCG8LeprL7)** il Comitato Organizzativo comunicherà l'accettazione della proposta dopo il 30 giugno 2021.
+Attraverso l'email di ammissione verrà inviato un template con le linee guida generali, verrà inoltre richiesto di caricare su Easy Chair un breve abstract (massimo 500 caratteri), una breve biografia dell'autore/gruppo di ricerca (per un totale di massimo 500 caratteri), la proposta in pdf (massimo 5000 caratteri) accompagnata da un massimo di tre immagini, didascalie e bibliografia. Il suddetto materiale deve essere presentato perentoriamente entro il **1 Settembre 2021**. Il testo e le immagini devono essere disponibili con licenza CC BY-SA 3.0.
+**Si prega di notare che se la vostra proposta non viene ricevuta entro la scadenza richiesta e non soddisfa pienamente le linee guida, potrebbe non essere considerata per la conferenza**.
+
+# CALL PER I WORKSHOPS
+
+L'edizione 2021 di ArcheoFOSS si concentra sulla diffusione di buone pratiche, competenze di codifica, nuovi flussi di lavoro e le migliori pratiche di riutilizzo e opening dei dataset archeologici.
+A tal fine, i giorni seguenti saranno dedicati ad una serie di workshop online aperti alla comunità internazionale, che copriranno gli argomenti descritti nei seguenti topic 2 e 3. Queste due sessioni sono dedicate all’audience previsto: 2. Editori di OpenData, e 3. Sviluppatori.
+L'affluenza sarà limitata in numero di 25-30 partecipanti per workshop per garantire una migliore fruizione degli eventi. Il comitato organizzativo invita a presentare proposte per workshop pratici sull'uso di un software specifico, l'esecuzione di un process o la creazione di una mash-up. Il workshop sarà pubblicato sul programma della conferenza dopo un processo di doppia blinded peer-review.
+I candidati sono pregati di rispettare attentamente i seguenti requisiti:
+
+- La durata massima del workshop è di 2 ore;
+- I candidati dovrebbero garantire che tutti i partecipanti possano seguire il workshop in termini pratici, optando per ambienti multipiattaforma. Inoltre, il workshop dovrebbe essere accessibile attraverso sistemi Linux (le distribuzioni più popolari), Windows e MacOS;
+- I candidati dovranno fornire un ambiente di lavoro compatibile (software, librerie, dati) o fornire in anticipo istruzioni dettagliate per impostarlo correttamente. I candidati dovranno rimanere a disposizione dei partecipanti registrati prima dell'inizio del workshop per risolvere eventuali problemi nell'ambiente di lavoro. L'organizzazione di una sessione di follow-up (4-5 settimane dopo il lavoro del workshop), con il supporto del comitato organizzatore, è altamente incoraggiata;
+- I candidati e i partecipanti devono essere d'accordo con la registrazione video del workshop e la sua pubblicazione attraverso i canali di comunicazione ArcheoFOSS;
+- I candidati sono tenuti a fornire materiale didattico al comitato organizzatore di ArcheoFOSS, che può pubblicare il materiale sul suo sito web e/o nei suoi archivi pubblici.
+
+### ![icon](./images/icons/share.svg "Share") TEMA 2 <br>Creazione, uso e promozione di open data e open format in archeologia
+
+La sessione comprende temi come la creazione, la pubblicazione e la condivisione degli Open Data in archeologia, incluso il software commerciale. Particolare attenzione sarà data allo sviluppo e alla promozione di Open Formats.
+
+Potenziali argomenti includono, ma non sono limitati a:
+
+- progetti e ricerche con risultati in formato aperto;
+- strategie di pubblicazione basate su Open Data e Linked Open Data (LOD);
+- adozione di processi di trasformazione dei dati trasparenti e documentati;
+- elaborazione, recupero e ripubblicazione di dati legacy;
+- strategie di archiviazione e conservazione a lungo termine dei dati del patrimonio culturale attraverso formati aperti;
+- uso degli Open Data e dei Open Formats per l'impegno pubblico nei musei e nell'archeologia.
+
+### ![icon](./images/icons/gears.svg "Gears") TEMA 3 <br> Sviluppo e personalizzazione di soluzioni software e hardware FLOS per i beni culturali
+
+La sessione ospita paper dedicati allo sviluppo e alla personalizzazione di strumenti free/libre e open source, con particolare attenzione ai componenti software e hardware e al loro effetto su dati, formats e processes.
+
+I potenziali argomenti includono, ma non sono limitati a:
+
+- creazione di strumenti hardware/software per la modellazione e l'integrazione dei dati;
+- creazione di soluzioni hardware/software per la raccolta di dati nel campo dei Beni Culturali;
+- sviluppo di soluzioni di intelligenza artificiale (AI) e deep learning;
+- quadro hardware aperto per la gestione dei dati;
+- sviluppo di strumenti software/hardware di Internet of Things (IoT) per i Beni Culturali.
+
+## Proposte per workshop
+
+A seguito dell'invio della proposta attraverso il seguente **[ Form link](https://forms.gle/M39XmAgGCG8LeprL7)** il Comitato Organizzativo comunicherà l'accettazione della proposta dopo il 30 giugno 2021.
+Attraverso l'email di ammissione verrà inviato un template con le linee guida generali, verrà inoltre richiesto di caricare su Easy Chair un breve abstract (massimo 500 caratteri), una breve biografia dell'autore/gruppo di ricerca (per un totale di massimo 500 caratteri), la proposta in pdf (massimo 10000 caratteri) accompagnata da una descrizione della confinguarazione dell'hardware/software da utilizzare, una descrizione dettagliata dei vari step del workshop, diagrammi, grafici, e un massimo di 10 immagini. Il suddetto materiale deve essere presentato perentoriamente entro il **1 Settembre 2021**. Il testo e le immagini devono essere disponibili con licenza CC BY-SA 3.0.
+**Si prega di notare che se la vostra proposta non viene ricevuta entro la scadenza richiesta e non soddisfa pienamente le linee guida, potrebbe non essere considerata per la conferenza**.
+
+## Pubblication of the Proceedings
+
+### Before the Conference
+
+Tutti gli abstract presentati (**interventi e workshop**) - insieme alla breve biografia dell'autore (max. 700 caratteri), la foto del profilo, l'affiliazione e l'indirizzo email, il link a GitHub/GitLab/etc. - saranno raccolti in un volume OA, in formato digitale. Il volume, fornito agli autori e ai partecipanti, sarà liberamente disponibile sul sito ArcheoFOSS. I documenti saranno sottoposti ad un processo di revisione tra pari in doppia peer review anonima.
+
+### After the Conference
+
+A tutti gli autori sarà chiesto di presentare un paper completo da pubblicare nella versione completa degli atti.
+
+Gli autori dei workshop possono anche presentare i loro articoli per includerli negli atti. Dopo l'approvazione del workshop, un modello con le linee guida generali sarà inviato agli autori. L'obiettivo è quello di creare un manuale che riassuma gli argomenti presentati durante i workshop dell'edizione 2021 di ARCHEOFOSS.
+
+### Summary
+
+- Le presentazioni non dovanno durare più di 10 minuti;
+- altri 5 minuti saranno messi a disposizione per domande e risposte;
+- I workshop consisteranno in sessioni di 2 ore con un limite di 25-30 partecipanti ciascuno;
+- Le lingue ufficiali della conferenza sono l'**inglese** e l'**italiano**;
+- Per ulteriori informazioni, contattateci attraverso la nostra email: [clicca qui](mailto:archeofoss@gmail.com)\*\*
 
 ## TL;DR
 
