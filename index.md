@@ -165,7 +165,7 @@ I potenziali argomenti possono rispondere alle seguenti domande (non esclusive):
 4. Si sono aperte nuove strade e soluzioni per la professione archeologica e l'accademia?
 5. Gli sviluppatori stanno lavorando per aiutare gli archeologi e/o per promuovere il turismo, le comunità locali, i comuni e i musei che lottano contro le restrizioni COVID?
 
-# CALL FOR TALKS
+# CALL PER GLI INTERVENTI
 
 Il primo giorno della conferenza verrà dedicato alla presentazione di progetti e ricerche relative all'uso di FLOS in Archeologia. Il Comitato Organizzatore invita a presentare **proposte di interventi**, in particolare, ma non solo, da parte dei più giovani della comunità per dare voce a nuovi progetti ed idee (sviluppatori freelance, studenti laureati o di dottorato, ricercatori, borsisti post-dottorato, ecc.)
 Le sessioni di intervento consisteranno in presentazioni di 10 minuti, seguite da 5 minuti di discussione.
@@ -235,19 +235,19 @@ A seguito dell'invio della proposta attraverso il seguente **[ Form link](https:
 Attraverso l'email di ammissione verrà inviato un template con le linee guida generali, verrà inoltre richiesto di caricare su Easy Chair un breve abstract (massimo 500 caratteri), una breve biografia dell'autore/gruppo di ricerca (per un totale di massimo 500 caratteri), la proposta in pdf (massimo 10000 caratteri) accompagnata da una descrizione della confinguarazione dell'hardware/software da utilizzare, una descrizione dettagliata dei vari step del workshop, diagrammi, grafici, e un massimo di 10 immagini. Il suddetto materiale deve essere presentato perentoriamente entro il **1 Settembre 2021**. Il testo e le immagini devono essere disponibili con licenza CC BY-SA 3.0.
 **Si prega di notare che se la vostra proposta non viene ricevuta entro la scadenza richiesta e non soddisfa pienamente le linee guida, potrebbe non essere considerata per la conferenza**.
 
-## Pubblication of the Proceedings
+## Pubblicazione
 
-### Before the Conference
+### Prima della conferenza
 
 Tutti gli abstract presentati (**interventi e workshop**) - insieme alla breve biografia dell'autore (max. 700 caratteri), la foto del profilo, l'affiliazione e l'indirizzo email, il link a GitHub/GitLab/etc. - saranno raccolti in un volume OA, in formato digitale. Il volume, fornito agli autori e ai partecipanti, sarà liberamente disponibile sul sito ArcheoFOSS. I documenti saranno sottoposti ad un processo di revisione tra pari in doppia peer review anonima.
 
-### After the Conference
+### Dopo la conferenza
 
 A tutti gli autori sarà chiesto di presentare un paper completo da pubblicare nella versione completa degli atti.
 
 Gli autori dei workshop possono anche presentare i loro articoli per includerli negli atti. Dopo l'approvazione del workshop, un modello con le linee guida generali sarà inviato agli autori. L'obiettivo è quello di creare un manuale che riassuma gli argomenti presentati durante i workshop dell'edizione 2021 di ARCHEOFOSS.
 
-### Summary
+### Sommario
 
 - Le presentazioni non dovanno durare più di 10 minuti;
 - altri 5 minuti saranno messi a disposizione per domande e risposte;
