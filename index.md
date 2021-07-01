@@ -7,6 +7,10 @@ permalink: /
 
 ## Latest news
 
+**[1/07/2021]**
+
+The call for talks and workshop is now closed. A **possible extension of the deadline** will be comunicated within 12.00 pm today.
+
 **[28/05/2021]**
 
 From now on, for **questions/clarifications/updates** about the conference, the **Telegram** channel of the 15th edition of ArcheoFOSS is operative.
