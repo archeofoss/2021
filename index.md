@@ -28,8 +28,8 @@ Data and Formats in Archaeological Research will be held online on
 
 ## Deadlines
 
-- Deadline for paper submission: **30/06/2021**
-- Deadline for workshop submission: **30/06/2021**
+- Deadline for paper submission: **07/07/2021**
+- Deadline for workshop submission: **07/07/2021**
 - Notification of acceptance of the abstracts of speeches and workshops: **01/07/2021**
 - Registration for workshops open: **15/07/2021**
 - End of the pre-proceeding call for workshops: **01/09/2021**
