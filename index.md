@@ -7,6 +7,9 @@ permalink: /
 
 ## Latest news
 
+**[15/07/2021]**
+**The call closed on the 7th of July**. The submitted proposals are now being evaluated!
+
 **[1/07/2021]**
 
 The call for talks and workshop is now closed. A **possible extension of the deadline** will be comunicated within 12.00 pm today.
@@ -30,7 +33,7 @@ Data and Formats in Archaeological Research will be held online on
 
 - Deadline for paper submission: **07/07/2021**
 - Deadline for workshop submission: **07/07/2021**
-- Notification of acceptance of the abstracts of speeches and workshops: **14/07/2021**
+- Notification of acceptance of the abstracts of speeches and workshops: **23/07/2021**
 - Registration for workshops open: **15/07/2021**
 - End of the pre-proceeding call for workshops: **01/09/2021**
 - Publishing of the official program of the conference: **07/09/2021**
