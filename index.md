@@ -8,7 +8,8 @@ permalink: /
 ## Latest news
 
 **[15/07/2021]**
-**The call closed on the 7th of July**. The submitted proposals are now being evaluated!
+
+The call closed on the 7th of July. The submitted proposals are now being evaluated!
 
 **[1/07/2021]**
 
