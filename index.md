@@ -35,10 +35,10 @@ Data and Formats in Archaeological Research will be held online on
 - Deadline for paper submission: **07/07/2021**
 - Deadline for workshop submission: **07/07/2021**
 - Notification of acceptance of the abstracts of speeches and workshops: **23/07/2021**
-- Registration for workshops open: **15/07/2021**
+- Registration for workshops open: **04/10/2021**
 - End of the pre-proceeding call for workshops: **01/09/2021**
 - Publishing of the official program of the conference: **07/09/2021**
-- Registration for workshops closed: **07/10/2021**
+- Registration for workshops closed: **15/10/2021**
 - Publishing of the official online pre-proceeding: **07/11/2021**
 - Conference dates: **23/11/2021 - 26/11/2021**
 
@@ -87,7 +87,7 @@ Potential topics include, but are not limited to:
 ## Abstract Submission
 
 After applying using the following **[ Form link](https://forms.gle/M39XmAgGCG8LeprL7)** the Organizing Committee will forward the response of acceptance or rejection of the proposal no later than June 30 th, 2021.
-Through the admission email will be sent a template with the general guidelines, will also request you to upload on Easy Chair a short abstract (maximum 500 characters), a short biography of the author/research group (for a total of maximum 500 characters), the proposal in pdf (maximum 5000 characters) accompanied by a maximum of three images, captions and bibliography. The aforementioned material must be submitted peremptorily by **September 1<sup>st</sup>**, 2021. Text and images must be available under a CC BY-SA 3.0 license.<br>
+Through the admission email will be sent a template with the general guidelines, will also request you to upload on Easy Chair a short abstract (maximum 500 characters), a short biography of the author/research group (for a total of maximum 500 characters), the proposal in pdf (maximum 7500 characters) accompanied by one image, captions and bibliography. The aforementioned material must be submitted peremptorily by **September 1<sup>st</sup>**, 2021. Text and images must be available under a CC BY-SA 3.0 license.<br>
 **Please note that if your proposal is not received by the required deadline and does not fully meet the guidelines, it may not be considered for the conference**.
 
 # CALL FOR WORKSHOPS
@@ -196,7 +196,7 @@ Potenziali argomenti includono, ma non sono limitati a:
 ## Presentazione degli abstract
 
 A seguito dell'invio della proposta attraverso il seguente **[Form](https://forms.gle/M39XmAgGCG8LeprL7)** il Comitato Organizzativo comunicherà l'accettazione della proposta dopo il 30 giugno 2021.
-Attraverso l'email di ammissione verrà inviato un template con le linee guida generali, verrà inoltre richiesto di caricare su Easy Chair un breve abstract (massimo 500 caratteri), una breve biografia dell'autore/gruppo di ricerca (per un totale di massimo 500 caratteri), la proposta in pdf (massimo 5000 caratteri) accompagnata da un massimo di tre immagini, didascalie e bibliografia. Il suddetto materiale deve essere presentato perentoriamente entro il **1 Settembre 2021**. Il testo e le immagini devono essere disponibili con licenza CC BY-SA 3.0.
+Attraverso l'email di ammissione verrà inviato un template con le linee guida generali, verrà inoltre richiesto di caricare su Easy Chair un breve abstract (massimo 500 caratteri), una breve biografia dell'autore/gruppo di ricerca (per un totale di massimo 500 caratteri), la proposta in pdf (massimo 7500 caratteri) accompagnata da un'immagine, didascalie e bibliografia. Il suddetto materiale deve essere presentato perentoriamente entro il **1 Settembre 2021**. Il testo e le immagini devono essere disponibili con licenza CC BY-SA 3.0.
 **Si prega di notare che se la vostra proposta non viene ricevuta entro la scadenza richiesta e non soddisfa pienamente le linee guida, potrebbe non essere considerata per la conferenza**.
 
 # CALL PER I WORKSHOPS
@@ -270,9 +270,9 @@ Gli autori dei workshop possono anche presentare i loro articoli per includerli 
 - Deadline for paper submission: **30/06/2021**
 - Deadline for workshop submission: **30/06/2021**
 - Notification of acceptance of the abstracts of talks and workshops: **01/07/2021**
-- Registration for workshops open: **15/07/2021**
+- Registration for workshops open: **04/10/2021**
 - End of the pre-proceeding call for workshops: **01/09/2021**
 - Publishing of the official program of the conference: **07/09/2021**
-- Registration for workshops closed: **07/10/2021**
+- Registration for workshops closed: **15/10/2021**
 - Publishing of the official online pre-proceeding: **07/11/2021**
 - Conference dates: **23/11/2021 - 26/11/2021**
