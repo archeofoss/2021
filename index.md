@@ -87,7 +87,7 @@ Potential topics include, but are not limited to:
 ## Abstract Submission
 
 After applying using the following **[ Form link](https://forms.gle/M39XmAgGCG8LeprL7)** the Organizing Committee will forward the response of acceptance or rejection of the proposal no later than June 30 th, 2021.
-Through the admission email will be sent a template with the general guidelines, will also request you to upload on Easy Chair a short abstract (maximum 500 characters), a short biography of the author/research group (for a total of maximum 500 characters), the proposal in pdf (maximum 7500 characters) accompanied by one image, captions and bibliography. The aforementioned material must be submitted peremptorily by **September 1<sup>st</sup>**, 2021. Text and images must be available under a CC BY-SA 3.0 license.<br>
+A template with general guidelines will be sent through the admission email. Pre-acts should be sent to the email **[archeofoss@gmail.com](archeofoss@gmail.com)** in .docx format (maximum 7500 characters) accompanied by an image, captions and bibliography. The above material must be submitted peremptorily by **September 1, 2021**. Text and images must be available under CC BY-SA 3.0 license.<br>
 **Please note that if your proposal is not received by the required deadline and does not fully meet the guidelines, it may not be considered for the conference**.
 
 # CALL FOR WORKSHOPS
@@ -132,7 +132,7 @@ Potential topics include, but are not limited to:
 ## Workshop Submission
 
 After submitting the application through the following **[ Form link](https://forms.gle/M39XmAgGCG8LeprL7)** the Organizing Committee will send the response of acceptance or rejection of the proposal.
-Through the admission email will be sent a template with the general guidelines, will also request you to upload on Easy Chair a short abstract (maximum 500 characters), a short biography of the author / research group (for a total of maximum 500 characters), the proposal in pdf (maximum 10000 characters) with detailed information about the hardware/software configuration required, a detailed description of the practical steps for the execution of the workshop, diagrams, graphs, maximum 10 images. The aforementioned material must be submitted peremptorily by **September 1<sup>st</sup>, 2021**. Text and images must be made available under a CC BY-SA 3.0 license.<br>
+A template with general guidelines will be sent through the admission email. Pre-acts should be sent to the email **[archeofoss@gmail.com](archeofoss@gmail.com)** in .docx format (maximum 7500 characters) accompanied by an image, captions and bibliography. The above material must be submitted peremptorily by **September 1, 2021**. Text and images must be available under CC BY-SA 3.0 license.<br>
 **Please note that if your proposal is not received by the required deadline and does not fully meet the guidelines, it may not be considered for the conference**.
 
 ## Pubblication of the Proceedings
@@ -196,7 +196,7 @@ Potenziali argomenti includono, ma non sono limitati a:
 ## Presentazione degli abstract
 
 A seguito dell'invio della proposta attraverso il seguente **[Form](https://forms.gle/M39XmAgGCG8LeprL7)** il Comitato Organizzativo comunicherà l'accettazione della proposta dopo il 30 giugno 2021.
-Attraverso l'email di ammissione verrà inviato un template con le linee guida generali, verrà inoltre richiesto di caricare su Easy Chair un breve abstract (massimo 500 caratteri), una breve biografia dell'autore/gruppo di ricerca (per un totale di massimo 500 caratteri), la proposta in pdf (massimo 7500 caratteri) accompagnata da un'immagine, didascalie e bibliografia. Il suddetto materiale deve essere presentato perentoriamente entro il **1 Settembre 2021**. Il testo e le immagini devono essere disponibili con licenza CC BY-SA 3.0.
+Attraverso l'email di ammissione verrà inviato un template con le linee guida generali. I pre atti dovranno essere inviati all'email **[archeofoss@gmail.com](archeofoss@gmail.com)** in formato .docx (massimo 7500 caratteri) accompagnati da un'immagine, didascalie e bibliografia. Il suddetto materiale deve essere presentato perentoriamente entro il **1 Settembre 2021**. Il testo e l'immaginine devono essere disponibili con licenza CC BY-SA 3.0.
 **Si prega di notare che se la vostra proposta non viene ricevuta entro la scadenza richiesta e non soddisfa pienamente le linee guida, potrebbe non essere considerata per la conferenza**.
 
 # CALL PER I WORKSHOPS
@@ -240,7 +240,7 @@ I potenziali argomenti includono, ma non sono limitati a:
 ## Proposte per workshop
 
 A seguito dell'invio della proposta attraverso il seguente **[ Form link](https://forms.gle/M39XmAgGCG8LeprL7)** il Comitato Organizzativo comunicherà l'accettazione della proposta dopo il 30 giugno 2021.
-Attraverso l'email di ammissione verrà inviato un template con le linee guida generali, verrà inoltre richiesto di caricare su Easy Chair un breve abstract (massimo 500 caratteri), una breve biografia dell'autore/gruppo di ricerca (per un totale di massimo 500 caratteri), la proposta in pdf (massimo 10000 caratteri) accompagnata da una descrizione della confinguarazione dell'hardware/software da utilizzare, una descrizione dettagliata dei vari step del workshop, diagrammi, grafici, e un massimo di 10 immagini. Il suddetto materiale deve essere presentato perentoriamente entro il **1 Settembre 2021**. Il testo e le immagini devono essere disponibili con licenza CC BY-SA 3.0.
+Attraverso l'email di ammissione verrà inviato un template con le linee guida generali. I pre atti dovranno essere inviati all'email **[archeofoss@gmail.com](archeofoss@gmail.com)** in formato .docx (massimo 7500 caratteri) accompagnati da un'immagine, didascalie e bibliografia. Il suddetto materiale deve essere presentato perentoriamente entro il **1 Settembre 2021**. Il testo e l'immaginine devono essere disponibili con licenza CC BY-SA 3.0.
 **Si prega di notare che se la vostra proposta non viene ricevuta entro la scadenza richiesta e non soddisfa pienamente le linee guida, potrebbe non essere considerata per la conferenza**.
 
 ## Pubblicazione
