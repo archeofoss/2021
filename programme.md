@@ -146,4 +146,4 @@ Silvia, Orlandi<sup>1</sup>; Saverio Giulio, Malatesta<sup>2</sup>; Lanfranco, F
 
 PAUSE: 14:45-15:00
 
-## In the early afternoon from 15.00 the workshop session will also start. To see the list of workshops and to register [click here!](https://2021.archeofoss.org/workshops)
+## In the early afternoon from 15.00 the workshop session will also start. A list will be published very soon
