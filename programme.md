@@ -4,8 +4,6 @@ description: "Programme of the 15th edition of the international congress Archeo
 layout: article-slim
 ---
 
-**GO TO THE CALL FOR PAPERS AND WORKSHOPS ON OUR [HOMEPAGE](./index)**
-
 Due to the global coronavirus (COVID-19) outbreak, the 15<sup>th</sup> edition of the
 International Conference ArcheoFOSS Open Software, Hardware, Processes,
 Data and Formats in Archaeological Research will be held online on
