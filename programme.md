@@ -13,7 +13,7 @@ Data and Formats in Archaeological Research will be held online on
 
 **The platform used to stream the conference will be announced soon**.
 
-**Program ArcheoFOSS 2021**
+**Program ArcheoFOSS 2021**  
 Day 1: 23/11/2021
 
 Section 1: GIS
