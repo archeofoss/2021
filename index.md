@@ -7,6 +7,10 @@ permalink: /
 
 ## Latest news
 
+**[28/07/2021]**
+
+The conference programme has been published. The list of workshops and the form to register individually for each of them will be published soon.
+
 **[15/07/2021]**
 
 The call closed on the 7th of July. The submitted proposals are now being evaluated!
