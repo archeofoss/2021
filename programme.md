@@ -148,7 +148,6 @@ PAUSE: 14:45-15:00
 
 ## WORKSHOPS
 
-
 _#MICH, il primo contatto: da pyArchInit a Extended Matrix in Blender per le ricostruzioni 3D di sequenze stratigrafiche_
 
 Workshop by <sup>1</sup> Enzo Cocca, <sup>1</sup> Luca Mandolesi, <sup>2</sup> Emanuel Demetrescu, <sup>1</sup> Bruno Fanini.
@@ -179,9 +178,7 @@ This workshop will first explore the history and current issues of encoding and 
 
 _BDUS4 REST API: programmatic access to bdus4 web databases to build Rich Internet Applications or Desktop apps_
 
-Workshop by Julian Bogdani
-
-Sapienza Università di Roma
+Workshop by Julian Bogdani, Sapienza Università di Roma
 
 REST APIs are a popular way for data exchange between web apps. Based on JSON, they are extremely easy to consume. Bradypus webDB integrates a secure API to expose the contents of a database through HTTP using JSON. The workshop will focus on a complete overview of this functionality and will introduce the participants to shortSQL, a secure and compact version of SQL used to communicate with BDUS4. The API can be used to build web apps or to consume data on Desktop applications (es. QGIS).
 
@@ -237,9 +234,7 @@ Open History Map, an open map of the past that was already presented as a concep
 
 _Dal Cielo alla Terra fin sulla Carta con pyArchinit_
 
-Workshop by Roberto Montagnetti
-
-Ad@Arte srl
+Workshop by Roberto Montagnetti, Ad@Arte srl
 
 Il Workshop tratterà di tutto l'impianto di gestione di uno scavo archeologico attraverso QGIS e il suo plugin per l'archeologia Pyarchinit 3. Il partecipante sarà in grado di gestire tutto il processo dall’impianto del rilievo dalla fotogrammetria da drone fino alla relazione stampata. In questo workshop illustreremo infatti come far interagire tra loro più procedure adottate negli scavi archeologici di ricerca o legati all’archeologia preventiva e alle Carte di potenziale archeologico. Vedremo vari metodi di allineamento di più progetti di scavo su un’unica base GIS, come georiferire la stratigrafia, gestire le schede US, periodizzare e raggruppare le US in strutture, generare matrix e tavole composite di fase, fino alla creazione di una relazione.
 
@@ -258,9 +253,7 @@ Raccoglie i dati archeologici del comune, per un arco cronologico compreso tra l
 
 _Wikimedia Italia and ArcheoFOSS, Wikiproject 2021 the meaning and the upload of the ArcheoFOSS 2019-20 articles in Wikibooks_
 
-Workshop by Paolo Rosati
-
-Sapienza Università di Roma
+Workshop by Paolo Rosati, Sapienza Università di Roma
 
 Wikimedia Italia and ArcheoFOSS have stipulated in 2021 an agreement to publish in 'Gold OA' the proceedings of the ArcheoFOSS 2019 and 2020 conferences, for the opening of the articles (texts, citations, bibliographic resources, images) within the platforms of Wiki projects, starting from wikibooks. During the workshop this interesting Wikiproject will be presented, the meaning of the operation, the types of licenses used will be explained and the potential of continuing with such a collaboration for future volumes will be shown.  
 This will be followed by the practical part of the workshop with the uploading of the articles of the 2019 conference volume in Wikibooks, all the operations will be explained in a very didactic and simple way, everything will be followed by the author of the workshop for ArcheoFOSS and Wikimedia Italia.
