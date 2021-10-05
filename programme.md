@@ -148,6 +148,7 @@ PAUSE: 14:45-15:00
 
 ## WORKSHOPS
 
+
 _#MICH, il primo contatto: da pyArchInit a Extended Matrix in Blender per le ricostruzioni 3D di sequenze stratigrafiche_
 
 Workshop by <sup>1</sup> Enzo Cocca, <sup>1</sup> Luca Mandolesi, <sup>2</sup> Emanuel Demetrescu, <sup>1</sup> Bruno Fanini.
