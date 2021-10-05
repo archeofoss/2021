@@ -73,7 +73,7 @@ Valentina, Oselini<sup>1</sup>; Luca, Peyronel<sup>2</sup>; Elisa, Ginoli2; Mich
 
 11:15-11:25
 
-_Strumenti FOSS nelle nuove prospettive di ricerca a_ Satrianum
+_Un ecosistema digitale per la conoscenza, la conservazione e la valorizzazione del sito archeologico medievale di_ Satrianum _(Tito, PZ). Strumenti FOSS_
 
 Giorgia, Dato<sup>1</sup>; Eugenio, Saccà<sup>2</sup>; Alessandro, Spadaro<sup>3</sup>  
  <sup>1</sup>Independent Researcher; <sup>2</sup>Università degli Studi della Basilicata - Scuola di specializzazione in beni archeologici; <sup>3</sup>Università degli Studi di Roma Tre - Facoltà di Architettura
@@ -145,5 +145,79 @@ Silvia, Orlandi<sup>1</sup>; Saverio Giulio, Malatesta<sup>2</sup>; Lanfranco, F
 **Questions and Answers for the 13-15 Talks**
 
 PAUSE: 14:45-15:00
+
+## Workshop Programme
+
+_#MICH, il primo contatto: da pyArchInit a Extended Matrix in Blender per le ricostruzioni 3D di sequenze stratigrafiche_
+
+Workshop by <sup>1</sup>Enzo Cocca, <sup>1</sup>Luca Mandolesi, <sup>2</sup>Emanuel Demetrescu, <sup>1</sup>Bruno Fanini  
+<sup>1</sup>AdArte srl, <sup>2</sup>CNR ISPC
+
+In questa prima apparizione ufficiale di #MICH, saranno date delle linee guida perché un progetto possa fruire di questo hastag. Come primo esempio pratico vi faremo vedere i primi due progetti collaborativi #MICH che dialogheranno tra loro attraverso il Matrix stratigrafico per far comunicare pyArchInit verso Extended Matrix. #MICH Modular interconnecting Cultural Heritage suggerisce che un progetto ha delle procedure native per accogliere o esportare dati che vengono raccolti da un altro progetto
+
+_101 - Git_
+
+Workshop by <sup>1</sup>Serena Sensini  
+<sup>1</sup>theredcode.it
+
+Git è un sistema di controllo di versione di codici e programmi distribuito in maniera assolutamente Free libre e open source, progettato per gestire tutto, dai progetti piccoli a quelli molto grandi, con velocità ed efficienza. Git è facile da imparare e necessita di uno spazio di memoria minimo cosa che gli garantisce prestazioni fulminee. È alla base delle più conosciute piattaforme di condivisione di progetti software come GithLab o Github e viene utilizzato per i più vasti fini di programma
+
+_BDUS4 REST API: programmatic access to bdus4 web databases to build Rich Internet Applications or Desktop apps_
+
+Workshop by <sup>1</sup>Julian Bogdani  
+<sup>1</sup>Sapienza Università di Roma
+
+REST APIs are a popular way for data exchange between web apps. Based on JSON, they are extremely easy to consume. Bradypus webDB integrates a secure API to expose the contents of a database through HTTP using JSON. The workshop will focus on a complete overview of this functionality and will introduce the participants to shortSQL, a secure and compact version of SQL used to communicate with BDUS4. The API can be used to build web apps or to consume data on Desktop applications (e.g. QGIS)
+
+_Full immersion in Cultural Heritage environments: a new IDEHA for data managing and displaying_
+
+Workshop by <sup>1</sup>Luca, Bevilacqua; <sup>2</sup>Bruno, Fanini; <sup>1</sup>Nicola, Mariniello; <sup>2</sup>Augusto, Palombini; Vladimiro, <sup>1</sup>Scotto, di Carlo; <sup>3</sup>Antonio, Sorgente; <sup>3</sup>Paolo, Vanacore  
+<sup>1</sup>Engineering Ingegneria Informatica S.p.a, <sup>2</sup>CNR Institute of Heritage Science, <sup>3</sup>CNR Istitute of Applied Science and Intelligent Systems
+
+IDEHA (Innovation for Data Elaboration in Heritage Areas), is a PON project coordinated by CNR, aimed to an open platform for real-time aggregation of Cultural Heritage elements (sites, monuments, etc.) data; and their "packaging" in sets of informations for different targets of outlined public. The main tool conceived for displaying data (spread from different sources: news, digital libraries, IoT, etc.) is an immersive viewer capable to display 360° images and videos, all multimedia inserts ht
+!!!!!!!!AGGIUNGERE TESTO!!!!!!!!
+
+_Open History Map - Cloud First infrastructure for Digital Humanities_
+
+Workshop by <sup>1</sup>Marco Montanari; <sup>2</sup>Lorenzo Gigli  
+<sup>1</sup>Open History Map, <sup>2</sup>University of Bologna
+
+The complexity of the infrastructure behind a project such as Open History Map required an original and cloud-first approach, enabling the optimization of every single aspect of the development as well as the deployment and the usage of the system. For this reason a cloud-first approach was used, trying to harness all the features of the most common FLOS software platforms in order to maximize the quality of the final product
+
+_Open History Map Data Index - Monitoring the quality and coverage of open data of the past_
+
+Workshop by <sup>1</sup>Marco Montanari  
+<sup>1</sup>Open History Map
+
+Within our work on OHM we started collecting information about major open datasets available online. The geographic precision as well as the informational quality varies a lot between sources, research teams, projects. These factors brought us to the idea to display this variability with the OHM Open Data Index (https://index.openhistorymap.org), where we collect all sources we find and all datasets we import in order to display how the world we are trying to describe is somehow already partial
+
+_Dal Cielo alla Terra fin sulla Carta con pyArchinit_
+
+Workshop by <sup>1</sup>Roberto Montagnetti  
+<sup>1</sup>Ad@Arte srl
+
+Il Workshop tratterà di tutto l'impianto di gestione di uno scavo archeologico attraverso QGIS e il suo plugin per l'archeologia Pyarchinit 3. Il partecipante sarà in grado di gestire tutto il processo dall’impianto del rilievo dalla fotogrammetria da drone fino alla relazione stampata. In questo workshop illustreremo infatti come far interagire tra loro più procedure adottate negli scavi archeologici di ricerca o legati all’archeologia preventiva e alle Carte di potenziale archeologico. Vedremo [...]
+!!!!!!!!AGGIUNGERE TESTO!!!!!!!!
+
+_Encoding and Inputting Ancient Egyptian and Coptic for Further Digitization of Cultural Heritage in the Future_
+
+Workshop by <sup>1</sup>So Miyagawa  
+<sup>1</sup>Kyoto University
+
+This paper will first explore the history and current issues of encoding and inputting Ancient Egyptian scripts (Hieroglyphic, Hieratic, Demotic) and Coptic alphabet. Then, the presenter will propose solutions to the problems and show the progress in ongoing projects such as SINUHE the Hierotyper and recent Unicode implementation of control characters for quadrat writings
+
+_Dalla Carta al Sistema Informativo Territoriale Archeologico: il caso di Rubiera (RE)_
+
+Workshop by <sup>1</sup>Piergiovanna, Grossi; <sup>1</sup>Alberto, Belussi; <sup>2</sup>Annalisa, Capurso; <sup>1</sup>Sara Migliorini  
+<sup>1</sup>Università degli Studi di Verona; <sup>2</sup>Ministero della Cultura, Soprintendenza Archeologia, Belle Arti e Paesaggio per la città metropolitana di Bologna e le province di Modena, Reggio Emilia e Ferrara
+
+Tra il 2019 e il 2020 viene sviluppato il Sistema Informativo Territoriale Archeologico di Rubiera, RE (SITARu). Il sistema, realizzato con software libero (PostGIS, Geoserver), si basa sugli standard CIDOC CRM e GeoUML e sul LOD AAT del Getty Institute.
+
+_Wikimedia Italia and ArcheoFOSS, Wikiproject 2021 the meaning and the upload of the ArcheoFOSS 2019-20 articles in Wikibooks_
+
+Workshop by <sup>1</sup>Paolo Rosati  
+<sup>1</sup>Sapienza Università di Roma
+
+Wikimedia Italia and ArcheoFOSS have stipulated in 2021 an agreement to publish in 'Gold OA' the proceedings of the ArcheoFOSS 2019 and 2020 conferences, for the opening of the articles (texts, citations, bibliographic resources, images) within the platforms of Wiki projects, starting from wikibooks. During the workshop this interesting Wikiproject will be presented, the meaning of the operation, the types of licenses used will be explained and the potential of continuing with such a collaboration.
 
 ## In the early afternoon from 15.00 the workshop session will also start. A list will be published very soon
