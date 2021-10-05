@@ -257,7 +257,9 @@ Raccoglie i dati archeologici del comune, per un arco cronologico compreso tra l
 
 _Wikimedia Italia and ArcheoFOSS, Wikiproject 2021 the meaning and the upload of the ArcheoFOSS 2019-20 articles in Wikibooks_
 
-Workshop by Paolo Rosati, Sapienza Università di Roma
+Workshop by Paolo Rosati
+
+Sapienza Università di Roma
 
 Wikimedia Italia and ArcheoFOSS have stipulated in 2021 an agreement to publish in 'Gold OA' the proceedings of the ArcheoFOSS 2019 and 2020 conferences, for the opening of the articles (texts, citations, bibliographic resources, images) within the platforms of Wiki projects, starting from wikibooks. During the workshop this interesting Wikiproject will be presented, the meaning of the operation, the types of licenses used will be explained and the potential of continuing with such a collaboration for future volumes will be shown.  
 This will be followed by the practical part of the workshop with the uploading of the articles of the 2019 conference volume in Wikibooks, all the operations will be explained in a very didactic and simple way, everything will be followed by the author of the workshop for ArcheoFOSS and Wikimedia Italia.
