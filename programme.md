@@ -150,7 +150,8 @@ PAUSE: 14:45-15:00
 
 _#MICH, il primo contatto: da pyArchInit a Extended Matrix in Blender per le ricostruzioni 3D di sequenze stratigrafiche_
 
-Workshop by <sup>1</sup> Enzo Cocca, <sup>1</sup> Luca Mandolesi, <sup>2</sup> Emanuel Demetrescu, <sup>1</sup> Bruno Fanini.
+Workshop by <sup>1</sup> Enzo Cocca, <sup>1</sup> Luca Mandolesi, <sup>2</sup> Emanuel Demetrescu, <sup>1</sup> Bruno Fanini
+
 <sup>1</sup> AdArte srl, <sup>2</sup> CNR ISPC
 
 In questa prima apparizione ufficiale di #MICH, saranno date delle linee guida perché un progetto possa fruire di questo hastag. Come primo esempio pratico vi faremo vedere i primi due progetti collaborativi #MICH che dialogheranno tra loro attraverso il Matrix stratigrafico per far comunicare pyArchInit verso Extended Matrix. #MICH Modular interconnecting Cultural Heritage suggerisce che un progetto ha delle procedure native per accogliere o esportare dati che vengono raccolti da un altro progetto.
