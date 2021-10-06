@@ -157,7 +157,7 @@ In questa prima apparizione ufficiale di #MICH, saranno date delle linee guida p
 L'obiettivo è quello di dare regole base per cui un software, plugin, add-on ecc.. riceva, elabori e restituisca i dati in modo che possano essere reimpiegati da altri applicativi.
 Il livello di interoperabilità andrà oltre alla semplice lettura dei dati, ma ci saranno griglie di raccolta, elaborazione e scambio condivise.
 
-[REGISTRATION FORM](https://docs.google.com/forms/d/13GXlt_q9xicuhhVqBTdcrQnwiE1GF8vgTZJm6s2BKbM/edit)
+[REGISTRATION FORM](https://docs.google.com/forms/d/e/1FAIpQLSdfL2nljLJTeaSAJHDKXO4amBzTIgt7fwyvvoceu_PJpiP7iw/viewform?usp=sf_link)
 
 _101 - Git_
 
