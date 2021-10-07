@@ -100,7 +100,7 @@ Jaime, Molina<sup>1</sup>; Carolina, Frías<sup>1</sup>; Javier, Muñoz<sup>1</s
 
 12:20-12:30
 
-_Modeling and Animations for the Ancient Maya Site of Pacbitun, Belize_
+_Use of 3D Modelling and Open-Source Programs for Student Research Projects on the Ancient Maya Site of Pacbitun, Belize._
 
 Sheldon, Skaggs<sup>1</sup><sup>,</sup><sup>2</sup>; Hadja, Jalloh<sup>1</sup>; George, Micheletti<sup>3</sup>; Terry, Powis<sup>4</sup>  
 <sup>1</sup>Bronx Community College; <sup>2</sup>CUNY; <sup>3</sup>University of Central Florida; <sup>4</sup>Kennesaw State University
