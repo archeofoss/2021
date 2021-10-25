@@ -154,7 +154,7 @@ PAUSE: 14:45-15:00
 _Dal Cielo alla Terra fin sulla Carta con pyArchinit_
 
 Workshop by Roberto, Montagnetti<sup>1</sup>  
-Ad@Arte srl<sup>1</sup>
+<sup>1</sup>Ad@Arte srl
 
 Il Workshop tratterà di tutto l'impianto di gestione di uno scavo archeologico attraverso QGIS e il suo plugin per l'archeologia Pyarchinit 3. Il partecipante sarà in grado di gestire tutto il processo dall’impianto del rilievo dalla fotogrammetria da drone fino alla relazione stampata. In questo workshop illustreremo infatti come far interagire tra loro più procedure adottate negli scavi archeologici di ricerca o legati all’archeologia preventiva e alle Carte di potenziale archeologico. Vedremo vari metodi di allineamento di più progetti di scavo su un’unica base GIS, come georiferire la stratigrafia, gestire le schede US, periodizzare e raggruppare le US in strutture, generare matrix e tavole composite di fase, fino alla creazione di una relazione.
 
