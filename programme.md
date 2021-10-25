@@ -147,8 +147,9 @@ PAUSE: 14:45-15:00
 
 ## WORKSHOPS
 
-**23/11/2021**
-15:00-17.00
+### 23/11/2021
+
+**15:00-17.00**
 
 _Dal Cielo alla Terra fin sulla Carta con pyArchinit_
 
