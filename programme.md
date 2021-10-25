@@ -18,7 +18,7 @@ Section 1: GIS
 
 _Open Source GIS for Colosseum study and management_
 
-Elisa, Cella<sup>1</sup>; Fabio, Fumagalli<sup>2</sup>; Pietro, Giannini<sup>3</sup>; Silvia Impinna<sup>3</sup>; Francesco, Laddaga<sup>3</sup>; Barbara, Nazzaro<sup>1</sup>; Federica, Rinaldi<sup>1</sup>; Jacopo, Russo<sup>3</sup>; Emiliano, Tondi<sup>3</sup>; Martina Almonte<sup>1</sup>; Simona Morretta<sup>4</sup>  
+Elisa, Cella<sup>1</sup>; Fabio, Fumagalli<sup>2</sup>; Pietro, Giannini<sup>3</sup>; Silvia, Impinna<sup>3</sup>; Francesco, Laddaga<sup>3</sup>; Barbara, Nazzaro<sup>1</sup>; Federica, Rinaldi<sup>1</sup>; Jacopo, Russo<sup>3</sup>; Emiliano, Tondi<sup>3</sup>; Martina, Almonte<sup>1</sup>; Simona, Morretta<sup>4</sup>  
  <sup>1</sup>Parco archeologico del Colosseo, <sup>2</sup>Freelance, <sup>3</sup>Poleis scarl, <sup>4</sup>Soprintendenza Speciale Archeologia Belle Arti e Paesaggio di Roma.
 
 9:40-9:50
@@ -60,7 +60,7 @@ Giuseppe, Guarino<sup>1</sup>; Paolo, Rosati<sup>2</sup>
 
 _Using QGIS, Qfield and PyArchinit in the Maasser el-Shouf Archaeological Project (Lebanon)_
 
-Silvia Festuccia<sup>1</sup>; Roberto Montagnetti<sup>2</sup>; Giovanna Verde<sup>3</sup>  
+Silvia, Festuccia<sup>1</sup>; Roberto, Montagnetti<sup>2</sup>; Giovanna, Verde<sup>3</sup>  
 <sup>1</sup>University 'Suor Orsola Benincasa', Naples; <sup>2</sup>ad@Arte; <sup>3</sup>Independent researcher
 
 11:05-11:15
@@ -211,7 +211,7 @@ Il 7 giugno 2021 è scaduto il termine di recepimento della direttiva 2019/790/U
 
 _Wikimedia Italia and ArcheoFOSS, Wikiproject 2021 the meaning and the upload of the ArcheoFOSS 2019-20 articles in Wikibooks_
 
-Workshop by Paolo Rosati<sup>1</sup>  
+Workshop by Paolo, Rosati<sup>1</sup>  
 <sup>1</sup>Sapienza Università di Roma
 
 Wikimedia Italia and ArcheoFOSS have stipulated in 2021 an agreement to publish in 'Gold OA' the proceedings of the ArcheoFOSS 2019 and 2020 conferences, for the opening of the articles (texts, citations, bibliographic resources, images) within the platforms of Wiki projects, starting from wikibooks. During the workshop this interesting Wikiproject will be presented, the meaning of the operation, the types of licenses used will be explained and the potential of continuing with such a collaboration for future volumes will be shown.  
