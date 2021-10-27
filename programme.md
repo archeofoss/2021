@@ -73,7 +73,7 @@ _From micro-regional to intra-site analysis: the GIS of the Italian Archaeologic
 
 <sup>1</sup>Valentina, Oselini; <sup>2</sup>Michael, Campeggi; <sup>3</sup>Luca, Forti; <sup>4</sup>Elisa, Ginoli; <sup>5</sup>Andrea, Pezzotta ; <sup>4</sup>Luca, Peyronel
 
-<sup>1</sup>Department of humanities, ancient and modern languages, literature and cultures, University of Perugia, Perugia, Italy; <sup>2</sup>, <sup>4</sup>, <sup>6</sup> Department of Literary Studies, Philology and Linguistics, University of Milan, Milan, Italy; <sup>3</sup>, 5Department of Earth Sciences "Ardito Desio", University of Milan, Milan, Italy; <sup>3</sup> Institute of Geosciences and Earth Resources of the Italian National Research Council, Pisa, Italy
+<sup>1</sup>Department of humanities, ancient and modern languages, literature and cultures, University of Perugia, Perugia, Italy; <sup>2</sup>, <sup>4</sup>, <sup>6</sup> Department of Literary Studies, Philology and Linguistics, University of Milan, Milan, Italy; <sup>3</sup>, <sup>5</sup>Department of Earth Sciences "Ardito Desio", University of Milan, Milan, Italy; <sup>3</sup> Institute of Geosciences and Earth Resources of the Italian National Research Council, Pisa, Italy
 
 **11:15-11:25**
 
