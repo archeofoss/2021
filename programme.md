@@ -215,17 +215,18 @@ Workshop by Piergiovanna, Grossi<sup>1</sup>; Alberto, Belussi<sup>1</sup>; Anna
 <sup>1</sup>Università degli Studi di Verona; <sup>2</sup>Ministero della Cultura, Soprintendenza Archeologia, Belle Arti e Paesaggio per la città metropolitana di Bologna e le province di Modena, Reggio Emilia e Ferrara
 
 Tra il 2019 e il 2020 è stato sviluppato il Sistema Informativo Territoriale Archeologico di Rubiera, RE (SITARu). Il sistema, implementato tramite software gratuito (PostGIS, Geoserver), è basato sugli standard CIDOC CRM e GeoUML e sul LOD AAT del Getty Institute. Raccoglie i dati archeologici del comune di Rubiera, per un periodo cronologico compreso tra l'Eneolitico e il Medioevo. L'accesso al database avviene tramite interfaccia Web GIS e tramite il protocollo standard WFS (standard OGC).
-Il Workshop si divide in una sezione tecnica, mirata a presentare i software, gli standard e le metodologie utilizzate nella realizzazione del sistema, e una sezione archeologica, mirata a illustrare il contesto normativo, storico e topografico del territorio rubierese e a descrivere l’accesso e il riuso dei dati pubblicati sul SITARu.
+Il Workshop si divide in una sezione archeologica, mirata a illustrare il contesto normativo, storico e topografico del territorio rubierese e a descrivere l’accesso e il riuso dei dati pubblicati sul SITARu e una sezione tecnica, mirata a presentare i software, gli standard e le metodologie utilizzate nella realizzazione del sistema.
 
-Prima sezione:
+Prima sezione: prerequisiti nessuno
+
+- Inquadramento normativo e storico-archeologico del territorio rubierese
+- Descrizione del progetto
+
+Seconda sezione:
 
 - La metodologia GeoUML
 - Gli standard CIDOC-CRM e OGC
 - Il vocabolario AAT
-
-Seconda sezione:
-
-- Inquadramento normativo e storico-archeologico del territorio rubierese
 - L’utilizzo dei WFS SITARu tramite QGIS
 
 [REGISTRATION FORM](https://docs.google.com/forms/d/e/1FAIpQLScDmGhg4EZd6LhqeZ2JZyxXULOw2OZC0RBqoe-slCuEDSWtMw/viewform?usp=sf_link)
