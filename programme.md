@@ -69,10 +69,11 @@ Silvia, Festuccia<sup>1</sup>; Roberto, Montagnetti<sup>2</sup>; Giovanna, Verde
 
 **11:05-11:15**
 
-_From micro-regional to intra-site analyses: the MAIPE GIS in the Kurdistan Region of Iraq as a case-study_
+_From micro-regional to intra-site analysis: the GIS of the Italian Archaeological Expedition in the Erbil Plain (Kurdistan Region of Iraq)_
 
-Valentina, Oselini<sup>1</sup>; Luca, Peyronel<sup>2</sup>; Elisa, Ginoli2; Michael, Campeggi<sup>2</sup>; Luca, Forti<sup>2</sup>  
-<sup>1</sup>Università di Perugia; <sup>2</sup>Università degli Studi di Milano
+<sup>1</sup>Valentina, Oselini; <sup>2</sup>Michael, Campeggi; <sup>3</sup>Luca, Forti; <sup>4</sup>Elisa, Ginoli; <sup>5</sup>Andrea, Pezzotta ; <sup>4</sup>Luca, Peyronel
+
+<sup>1</sup>Department of humanities, ancient and modern languages, literature and cultures, University of Perugia, Perugia, Italy; <sup>2</sup>, <sup>4</sup>, <sup>6</sup> Department of Literary Studies, Philology and Linguistics, University of Milan, Milan, Italy; <sup>3</sup>, 5Department of Earth Sciences "Ardito Desio", University of Milan, Milan, Italy; <sup>3</sup> Institute of Geosciences and Earth Resources of the Italian National Research Council, Pisa, Italy
 
 **11:15-11:25**
 
@@ -136,7 +137,7 @@ Morgan, Lemmer-Webber<sup>1</sup><sup>,</sup><sup>2</sup>
 
 re3dragon – _The archaeological FLOS REsearch REsource REgistry and API for Data Dragons_
 
-, Thiery<sup>1</sup>; Allard, Mees<sup>1</sup>  
+Florian, Thiery<sup>1</sup>; Allard, Mees<sup>1</sup>  
  <sup>1</sup>Römisch-Germanisches Zentralmuseum, Mainz, Germany
 
 **14:20-14:30**
