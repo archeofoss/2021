@@ -283,14 +283,3 @@ Open History Map, an open map of the past that was already presented as a concep
 
 [REGISTRATION FORM](https://docs.google.com/forms/d/e/
 1FAIpQLSc4t3FyqhOAiCxv3nAOZwvgW_5Im-zUgVxcdsXvDqXDlVogsg/viewform?usp=sf_link)
-
-**14.00-16.00**
-
-_101 - Git_
-
-Workshop by Serena, Sensini<sup>1</sup>  
-<sup>1</sup>theredcode.it
-
-Git è un sistema di controllo di versione di codici e programmi distribuito in maniera assolutamente Free libre e open source, progettato per gestire tutto, dai progetti piccoli a quelli molto grandi, con velocità ed efficienza. Git è facile da imparare e necessita di uno spazio di memoria minimo cosa che gli garantisce prestazioni fulminee. È alla base delle più conosciute piattaforme di condivisione di progetti software come GithLab o Github e viene utilizzato per i più vasti fini di programmazione a workflow singolo o multiplo. Il workshop è volto alla diffusione delle sue funzionalità dalla base fino alle applicazioni più avanzate (101 - from zero to hero).
-
-[REGISTRATION FORM](https://docs.google.com/forms/d/e/1FAIpQLSeVuWzNz7RGTYxO0Jh4BQ3CU-fFEUHavUxrQz2_TjgXvCSMNA/viewform?usp=sf_link)
