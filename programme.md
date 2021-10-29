@@ -192,45 +192,6 @@ REST APIs are a popular way for data exchange between web apps. Based on JSON, t
 
 [REGISTRATION FORM](https://docs.google.com/forms/d/e/1FAIpQLSdGm7EtOkRtgVZDelj-iCGj8kH-KP7d27nKch0wmy_z7ForDQ/viewform?usp=sf_link)
 
-**14.00-15.00**
-
-_Direttiva 2019/790/UE e Beni Culturali_
-
-Workshop by Piergiovanna, Grossi<sup>1</sup>; Marco, Ciurcina<sup>2</sup>  
-<sup>1</sup>Università degli Studi di Verona; <sup>2</sup>Studio legale Ciurcina
-
-Il 7 giugno 2021 è scaduto il termine di recepimento della direttiva 2019/790/UE sul diritto d’autore. Il testo della direttiva fa riferimento in diversi punti al “patrimonio culturale” e agli “istituti di tutela del patrimonio culturale”. D'interesse sono gli artt. 3, 6, 8 e l’art. 14, che è destinato a interferire con il diritto ex art. 87 e seguenti della Legge 633/1941 in merito alle riproduzioni dei beni culturali.
-Il Workshop si divide in due sezioni:
-
-- un’esposizione frontale, mirata a introdurre sinteticamente il contesto legislativo attuale in materia di beni culturali;
-- uno spazio di discussione, in cui verranno proposti approfondimenti specifici e in cui i partecipanti saranno invitati a intervenire con domande o osservazioni.
-
-[REGISTRATION FORM](https://docs.google.com/forms/d/e/1FAIpQLSciRw6xQvcO98_HZ6pWQtfXfAn5qbZzHE0W8sDowwz_EOtbww/viewform?usp=sf_link)
-
-**15.00-16.00**
-
-_Dalla Carta al Sistema Informativo Territoriale Archeologico: il caso di Rubiera (RE)_
-
-Workshop by Piergiovanna, Grossi<sup>1</sup>; Alberto, Belussi<sup>1</sup>; Annalisa, Capurso<sup>2</sup>; Sara, Migliorini<sup>1</sup>  
-<sup>1</sup>Università degli Studi di Verona; <sup>2</sup>Ministero della Cultura, Soprintendenza Archeologia, Belle Arti e Paesaggio per la città metropolitana di Bologna e le province di Modena, Reggio Emilia e Ferrara
-
-Tra il 2019 e il 2020 è stato sviluppato il Sistema Informativo Territoriale Archeologico di Rubiera, RE (SITARu). Il sistema, implementato tramite software gratuito (PostGIS, Geoserver), è basato sugli standard CIDOC CRM e GeoUML e sul LOD AAT del Getty Institute. Raccoglie i dati archeologici del comune di Rubiera, per un periodo cronologico compreso tra l'Eneolitico e il Medioevo. L'accesso al database avviene tramite interfaccia Web GIS e tramite il protocollo standard WFS (standard OGC).
-Il Workshop si divide in una sezione archeologica, mirata a illustrare il contesto normativo, storico e topografico del territorio rubierese e a descrivere l’accesso e il riuso dei dati pubblicati sul SITARu e una sezione tecnica, mirata a presentare i software, gli standard e le metodologie utilizzate nella realizzazione del sistema.
-
-Prima sezione: prerequisiti nessuno
-
-- Inquadramento normativo e storico-archeologico del territorio rubierese
-- Descrizione del progetto
-
-Seconda sezione:
-
-- La metodologia GeoUML
-- Gli standard CIDOC-CRM e OGC
-- Il vocabolario AAT
-- L’utilizzo dei WFS SITARu tramite QGIS
-
-[REGISTRATION FORM](https://docs.google.com/forms/d/e/1FAIpQLScDmGhg4EZd6LhqeZ2JZyxXULOw2OZC0RBqoe-slCuEDSWtMw/viewform?usp=sf_link)
-
 ### 25/11/2021
 
 **09.00-11.00**
@@ -301,3 +262,42 @@ Open History Map, an open map of the past that was already presented as a concep
 
 [REGISTRATION FORM](https://docs.google.com/forms/d/e/
 1FAIpQLSc4t3FyqhOAiCxv3nAOZwvgW_5Im-zUgVxcdsXvDqXDlVogsg/viewform?usp=sf_link)
+
+**14.00-15.00**
+
+_Direttiva 2019/790/UE e Beni Culturali_
+
+Workshop by Piergiovanna, Grossi<sup>1</sup>; Marco, Ciurcina<sup>2</sup>  
+<sup>1</sup>Università degli Studi di Verona; <sup>2</sup>Studio legale Ciurcina
+
+Il 7 giugno 2021 è scaduto il termine di recepimento della direttiva 2019/790/UE sul diritto d’autore. Il testo della direttiva fa riferimento in diversi punti al “patrimonio culturale” e agli “istituti di tutela del patrimonio culturale”. D'interesse sono gli artt. 3, 6, 8 e l’art. 14, che è destinato a interferire con il diritto ex art. 87 e seguenti della Legge 633/1941 in merito alle riproduzioni dei beni culturali.
+Il Workshop si divide in due sezioni:
+
+- un’esposizione frontale, mirata a introdurre sinteticamente il contesto legislativo attuale in materia di beni culturali;
+- uno spazio di discussione, in cui verranno proposti approfondimenti specifici e in cui i partecipanti saranno invitati a intervenire con domande o osservazioni.
+
+[REGISTRATION FORM](https://docs.google.com/forms/d/e/1FAIpQLSciRw6xQvcO98_HZ6pWQtfXfAn5qbZzHE0W8sDowwz_EOtbww/viewform?usp=sf_link)
+
+**15.00-16.00**
+
+_Dalla Carta al Sistema Informativo Territoriale Archeologico: il caso di Rubiera (RE)_
+
+Workshop by Piergiovanna, Grossi<sup>1</sup>; Alberto, Belussi<sup>1</sup>; Annalisa, Capurso<sup>2</sup>; Sara, Migliorini<sup>1</sup>  
+<sup>1</sup>Università degli Studi di Verona; <sup>2</sup>Ministero della Cultura, Soprintendenza Archeologia, Belle Arti e Paesaggio per la città metropolitana di Bologna e le province di Modena, Reggio Emilia e Ferrara
+
+Tra il 2019 e il 2020 è stato sviluppato il Sistema Informativo Territoriale Archeologico di Rubiera, RE (SITARu). Il sistema, implementato tramite software gratuito (PostGIS, Geoserver), è basato sugli standard CIDOC CRM e GeoUML e sul LOD AAT del Getty Institute. Raccoglie i dati archeologici del comune di Rubiera, per un periodo cronologico compreso tra l'Eneolitico e il Medioevo. L'accesso al database avviene tramite interfaccia Web GIS e tramite il protocollo standard WFS (standard OGC).
+Il Workshop si divide in una sezione archeologica, mirata a illustrare il contesto normativo, storico e topografico del territorio rubierese e a descrivere l’accesso e il riuso dei dati pubblicati sul SITARu e una sezione tecnica, mirata a presentare i software, gli standard e le metodologie utilizzate nella realizzazione del sistema.
+
+Prima sezione: prerequisiti nessuno
+
+- Inquadramento normativo e storico-archeologico del territorio rubierese
+- Descrizione del progetto
+
+Seconda sezione:
+
+- La metodologia GeoUML
+- Gli standard CIDOC-CRM e OGC
+- Il vocabolario AAT
+- L’utilizzo dei WFS SITARu tramite QGIS
+
+[REGISTRATION FORM](https://docs.google.com/forms/d/e/1FAIpQLScDmGhg4EZd6LhqeZ2JZyxXULOw2OZC0RBqoe-slCuEDSWtMw/viewform?usp=sf_link)
