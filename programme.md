@@ -155,19 +155,6 @@ Silvia, Orlandi<sup>1</sup>; Saverio Giulio, Malatesta<sup>2</sup>; Lanfranco, F
 
 ## WORKSHOPS
 
-### 23/11/2021
-
-**15:00-17.00**
-
-_Dal Cielo alla Terra fin sulla Carta con pyArchinit_
-
-Workshop by Roberto, Montagnetti<sup>1</sup>  
-<sup>1</sup>Ad@Arte srl
-
-Il Workshop tratterà di tutto l'impianto di gestione di uno scavo archeologico attraverso QGIS e il suo plugin per l'archeologia Pyarchinit 3. Il partecipante sarà in grado di gestire tutto il processo dall’impianto del rilievo dalla fotogrammetria da drone fino alla relazione stampata. In questo workshop illustreremo infatti come far interagire tra loro più procedure adottate negli scavi archeologici di ricerca o legati all’archeologia preventiva e alle Carte di potenziale archeologico. Vedremo vari metodi di allineamento di più progetti di scavo su un’unica base GIS, come georiferire la stratigrafia, gestire le schede US, periodizzare e raggruppare le US in strutture, generare matrix e tavole composite di fase, fino alla creazione di una relazione.
-
-[REGISTRATION FORM](https://docs.google.com/forms/d/e/1FAIpQLSeBC5kWDeAXIApWFH0pRchcKY8l-rC_eMqkRL4w9Y5r4yFz2A/viewform?usp=sf_link)
-
 ### 24/11/2021
 
 **09.00-11.00**
@@ -191,6 +178,18 @@ Workshop by Julian, Bogdani<sup>1</sup>
 REST APIs are a popular way for data exchange between web apps. Based on JSON, they are extremely easy to consume. Bradypus webDB integrates a secure API to expose the contents of a database through HTTP using JSON. The workshop will focus on a complete overview of this functionality and will introduce the participants to shortSQL, a secure and compact version of SQL used to communicate with BDUS4. The API can be used to build web apps or to consume data on Desktop applications (es. QGIS).
 
 [REGISTRATION FORM](https://docs.google.com/forms/d/e/1FAIpQLSdGm7EtOkRtgVZDelj-iCGj8kH-KP7d27nKch0wmy_z7ForDQ/viewform?usp=sf_link)
+
+**14:00-16.00**
+
+_Dal Cielo alla Terra fin sulla Carta con pyArchinit_
+
+Workshop by Roberto, Montagnetti<sup>1</sup>  
+<sup>1</sup>Ad@Arte srl
+
+Il Workshop tratterà di tutto l'impianto di gestione di uno scavo archeologico attraverso QGIS e il suo plugin per l'archeologia Pyarchinit 3. Il partecipante sarà in grado di gestire tutto il processo dall’impianto del rilievo dalla fotogrammetria da drone fino alla relazione stampata. In questo workshop illustreremo infatti come far interagire tra loro più procedure adottate negli scavi archeologici di ricerca o legati all’archeologia preventiva e alle Carte di potenziale archeologico. Vedremo vari metodi di allineamento di più progetti di scavo su un’unica base GIS, come georiferire la stratigrafia, gestire le schede US, periodizzare e raggruppare le US in strutture, generare matrix e tavole composite di fase, fino alla creazione di una relazione.
+
+[REGISTRATION FORM](https://docs.google.com/forms/d/e/1FAIpQLSeBC5kWDeAXIApWFH0pRchcKY8l-rC_eMqkRL4w9Y5r4yFz2A/viewform?usp=sf_link)
+
 
 ### 25/11/2021
 
