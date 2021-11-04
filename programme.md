@@ -15,7 +15,7 @@ Data and Formats in Archaeological Research will be held online on
 
 ### 23/11/2021
 
-#### Section 1: GIS
+#### Section 1: GIS
 
 **9:30-9:40**
 
@@ -88,7 +88,7 @@ Giorgia, Dato<sup>1</sup>; Eugenio, Saccà<sup>2</sup>; Alessandro, Spadaro<sup>
 
 **PAUSE: 11:45-12:00**
 
-#### Section 3: 3D
+#### Section 3: 3D
 
 **12:00-12:10**
 
@@ -124,7 +124,7 @@ Cristina, Gonzalez-Esteban<sup>1</sup>
 
 **LUNCH: 13:00-14:00**
 
-#### Section 4: General
+#### Section 4: Open Data
 
 **14:00-14:10**
 
