@@ -8,10 +8,10 @@ layout: article-slim
 
 - **Julian Bogdani**, Sapienza University of Rome  
   [julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it)
-  - Researcher of Archaeological Research Methodologies at Sapienza University of Rome
-  - Project Team Member of the ERC Advanced (2015) Project 'PAThs': Tracking Papyrus and Parchment Paths An Archaeological Atlas of Coptic Literature, the most important open data portal dedicated to the history and archaeology of late ancient and medieval Egypt
+  - Researcher of Theory and Methods of Archaeology at Sapienza University of Rome
   - Responsible of the [Laboratory for Digital Archaeology at Sapienza](http://purl.org/lad)
-  - Director of the [Archaeological Mission of Sapienza UNiversity of Rome at Çuka e Ajtoit (Albania)](http://purl.org/lad/cuka-e-ajtoit)
+  - Director of the [Archaeological Mission of Sapienza University of Rome at Çuka e Ajtoit  - Kestría (Albania)](http://purl.org/lad/cuka-e-ajtoit)
+  - Team member of the ERC Advanced (2015) Project 'PAThs': Tracking Papyrus and Parchment Paths An Archaeological Atlas of Coptic Literature, the most important open data portal dedicated to the history and archaeology of late ancient and medieval Egypt
   - Main developer of [BraDypUS](https://github.com/bdus-db/BraDypUS) a cloud database system for archaeology
 - **Paola Buzi**, Sapienza University of Rome  
   [paola.buzi@uniroma1.it](mailto:paola.buzi@uniroma1.it)
