@@ -209,8 +209,8 @@ This will be followed by the practical part of the workshop with the uploading o
 
 _Encoding and Inputting Ancient Egyptian and Coptic for Further Digitization of Cultural Heritage in the Future_
 
-Workshop by So Miagawa<sup>1</sup>  
-<sup>1</sup>Kyoto University
+Workshop by So Miyagawa<sup>1</sup>  
+<sup>1</sup>Kyoto Uiniversity
 
 This workshop will first explore the history and current issues of encoding and inputting Ancient Egyptian scripts (Hieroglyphic, Hieratic, Demotic) and Coptic alphabet. Then, the presenter will propose solutions to the problems and show the progress in ongoing projects such as SINUHE the Hierotyper and recent Unicode implementation of control characters for quadrat writings.
 
