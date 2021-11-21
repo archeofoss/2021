@@ -53,7 +53,7 @@ Data and Formats in Archaeological Research will be held online on
 - Registration for workshops open: **04/10/2021**
 - End of the pre-proceeding call for workshops: **01/09/2021**
 - Publishing of the official program of the conference: **07/09/2021**
-- Registration for workshops closed: **22/11/2021**
+- Registration for workshops closed: **21/11/2021**
 - Publishing of the official online pre-proceeding: **07/11/2021**
 - Conference dates: **23/11/2021 - 26/11/2021**
 
@@ -288,6 +288,6 @@ Gli autori dei workshop possono anche presentare i loro articoli per includerli 
 - Registration for workshops open: **04/10/2021**
 - End of the pre-proceeding call for workshops: **01/09/2021**
 - Publishing of the official program of the conference: **07/09/2021**
-- Registration for workshops closed: **22/11/2021**
+- Registration for workshops closed: **21/11/2021**
 - Publishing of the official online pre-proceeding: **07/11/2021**
 - Conference dates: **23/11/2021 - 26/11/2021**
