@@ -9,7 +9,7 @@ permalink: /
 
 **[21/11/2021]**
 
-The proceedings will be published as an open-access volume by Archaeopress. The volume will be available in digital format (PDF) during the works of the 2021 conference edition (23-26 Novembrer 2021) and the printed version will be available during the first week of December 2021.
+**News on the proceedings of the ArcheoFOSS 2020 conference** The proceedings will be published as an open-access volume by Archaeopress. The volume will be available in digital format (PDF) during the works of the 2021 conference edition (23-26 Novembrer 2021) and the printed version will be available during the first week of December 2021.
 
 During the 2021 edition works it will be possible to order a copy of the printed version and benefit of the special offer of £28.50 instead of the full price of £38.00. Please use this [offer-leaflet](https://2020.archeofoss.org/images/AA%20Bogdani%20pre-order%20offer.pdf) to order your volume now!
 
