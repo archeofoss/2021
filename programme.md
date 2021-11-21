@@ -9,7 +9,7 @@ International Conference ArcheoFOSS Open Software, Hardware, Processes,
 Data and Formats in Archaeological Research will be held online on
 **November, 23<sup>rd</sup> - 26<sup>th</sup> 2021**.
 
-**The platform used to stream the conference will be announced soon**.
+**The pre-conference proceedings are [now available!](https://www.academia.edu/61681414/Book_of_Abstracts_ArcheoFOSS_International_Conference_2021)**
 
 ## TALKS
 
