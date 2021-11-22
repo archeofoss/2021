@@ -7,6 +7,11 @@ permalink: /
 
 ## Latest news
 
+**[22/11/2021]**
+ArcheoFOSS goes live tomorrow! **ATTENTION**: The links for the Facebook and YouTube live streams have been posted on the **[Watch the conference](/watch-the-conference****)** page.
+We remind you that you can also subscribe to the [Telegram channel](https://t.me/ArcheoFOSS_2021) dedicated to this year's edition to ask your questions!
+Thank you, we look forward to seeing you tomorrow!
+
 **[21/11/2021]**
 
 **News on the proceedings of the ArcheoFOSS 2020 conference** The proceedings will be published as an open-access volume by Archaeopress. The volume will be available in digital format (PDF) during the works of the 2021 conference edition (23-26 Novembrer 2021) and the printed version will be available during the first week of December 2021.
