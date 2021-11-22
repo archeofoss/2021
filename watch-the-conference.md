@@ -6,6 +6,8 @@ layout: article-slim
 
 ## 23<sup>rd</sup> November 2021
 
-[![ArcheoFOSS XV 2021](https://img.youtube.com/vi/W66NZtZTmIY/0.jpg)](https://www.youtube.com/watch?v=W66NZtZTmIY)
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=W66NZtZTmIY&ab_channel=CattedradiEgittologiaSapienzaUniversit%C3%A0diRoma" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 **[Ask a question by joining the Telegram group](https://t.me/ArcheoFOSS_2021)**
